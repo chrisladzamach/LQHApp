@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:lqh_app/data/grade_menu_options.dart';
+import 'package:lqh_app/widgets/grade_menu_button.dart';
 
 class Programa extends StatelessWidget {
   const Programa({super.key});
@@ -6,13 +8,26 @@ class Programa extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.red,
-      appBar: AppBar(title: Text("Pantalla Roja")),
-      body: Center(
-        child: Text(
-          "Hola desde la pantalla roja",
-          style: TextStyle(color: Colors.white, fontSize: 22),
-        ),
+      backgroundColor: Colors.black,
+      appBar: AppBar(
+        iconTheme: IconThemeData(color: Colors.yellow, weight: 300),
+        backgroundColor: Colors.black,
+        title: const Text('Programa', style: TextStyle(color: Colors.yellow)),
+      ),
+      body: GridView.count(
+        crossAxisCount: 2,
+        padding: const EdgeInsets.all(5),
+        crossAxisSpacing: 10,
+        mainAxisSpacing: 10,
+        children: gradeMenuOptions.map((option) {
+          return GradeMenuButton(
+            grade: option.grade,
+            romanizedText: option.romanized,
+            hangulText: option.hangul,
+            color: option.color,
+            screen: option.screen,
+          );
+        }).toList(),
       ),
     );
   }
