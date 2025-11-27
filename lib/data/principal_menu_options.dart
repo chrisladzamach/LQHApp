@@ -1,0 +1,52 @@
+import 'package:lqh_app/models/principal_menu_option.dart';
+import 'package:lqh_app/screens/views/program.dart';
+import 'package:lqh_app/screens/views/self_defense_techniques.dart';
+import 'package:lqh_app/screens/views/unarmed/figures.dart';
+import 'package:lqh_app/screens/views/armed/figures.dart';
+import 'package:lqh_app/screens/views/unarmed/basic_movements.dart';
+import 'package:lqh_app/screens/views/armed/basic_movements.dart';
+
+final List<PrincipalMenuOption> principalMenuOption = [
+  PrincipalMenuOption(
+    icon: "📖",
+    romanized: "Gwajeong",
+    spanish: "(Programa)",
+    hangul: "과정",
+    screen: Programa(),
+  ),
+  PrincipalMenuOption(
+    icon: "🛡️",
+    romanized: "Ho Sin Sul",
+    spanish: "(Técnicas de defensa)",
+    hangul: "호신술",
+    screen: SelfDefenseTechniques(),
+  ),
+  PrincipalMenuOption(
+    icon: "🥋",
+    romanized: "Hyeong",
+    spanish: "(Figuras sin armas)",
+    hangul: "형",
+    screen: FiguresWithoutWeapons(),
+  ),
+  PrincipalMenuOption(
+    icon: "⚔️",
+    romanized: "Mugi Hyeong",
+    spanish: "(Figuras con armas)",
+    hangul: "무기 형",
+    screen: FiguresWithWeapons(),
+  ),
+  PrincipalMenuOption(
+    icon: "👊🏽",
+    romanized: "Gibon",
+    spanish: "(Básicos sin armas)",
+    hangul: "기본",
+    screen: BasicMovementsWithoutWeapons(),
+  ),
+  PrincipalMenuOption(
+    icon: "🔪",
+    romanized: "Mugi Gibon",
+    spanish: "(Básicos con armas)",
+    hangul: "무기 기본",
+    screen: BasicMovementsWithWeapons(),
+  ),
+];
