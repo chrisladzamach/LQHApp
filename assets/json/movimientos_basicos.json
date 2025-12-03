@@ -1,0 +1,14 @@
+{
+  "MovimientosBasicos": {
+    "Golpes": {
+      "Mano": [1, 2, 3, 4],
+      "Codo": [1, 2, 3, 4]
+    },
+    "Bloqueos": {
+      "Individuales": [1, 2, 3],
+      "Acompañados": [1, 2, 3]
+    },
+    "Patadas": [1, 2, 3, 4, 5],
+    "Posiciones": [1, 2, 3, 4, 5]
+  }
+}

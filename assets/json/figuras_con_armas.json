@@ -1,0 +1,18 @@
+{
+  "FigurasConArmas": {
+    "Nunchakus": [
+      "I Chol Bong Il Dan",
+      "I Chol Bong I Dan",
+      "I Chol Bong Sam Dan"
+    ],
+    "JangBong": [
+      "Jang Bong Il Dan",
+      "Jang Bong I Dan",
+      "Jang Bong Sam Dan",
+      "Jang Bong Sa Dan"
+    ],
+    "TangBong": ["Tang Bong Il Dan"],
+    "Lanza": ["Chan Il Dan"],
+    "Puche": ["Puche Il Dan", "Puche I Dan"]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "SecuenciasConArmas": {
+    "NunchakusSencillos": { "series": 40 },
+    "NunchakusDobles": { "series": 30 },
+    "JangBong": { "series": 22 },
+    "TangBong": { "series": 29 },
+    "ChuckKun": { "series": 43 },
+    "DefensaChuckKun": { "series": 16 },
+    "KunChase": [1, 2, 3, 4]
+  }
+}
