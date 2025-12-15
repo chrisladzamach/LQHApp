@@ -1010,19 +1010,70 @@
   {
     "group": 10,
     "name": "Saludo y conducción",
-    "subgroups": [
+    "techniques": [
       {
-        "name": "",
-        "techniques": [
-          {
-            "technique": 1,
-            "description": "Lorem ipsum"
-          },
-          {
-            "technique": 1,
-            "description": "Lorem ipsum"
-          }
-        ]
+        "technique": 1,
+        "description": "Presión en el aductor del dedo pulgar del oponente."
+      },
+      {
+        "technique": 2,
+        "description": "Fractura del dedo pulgar del oponente, con el dedo pulgar hacia un lado."
+      },
+      {
+        "technique": 3,
+        "description": "Con el indice rodeando el dedo pulgar, fractura hacia abajo."
+      },
+      {
+        "technique": 4,
+        "description": "Con el indice rodeando el dedo pulgar, fractura hacia un lado."
+      },
+      {
+        "technique": 5,
+        "description": "Como las 5 de las básicas, pero el primer golpe al dedo pulgar."
+      },
+      {
+        "technique": 6,
+        "description": "Presión al pronador del codo y Gasum Pal Kub Chigi."
+      },
+      {
+        "technique": 7,
+        "description": "Gira hacia atrás del oponente, agarrando el hombro opuesto del brazo agarrado y hala hacia atrás."
+      },
+      {
+        "technique": 8,
+        "description": "Anaconda rodeando el brazo del agresor y presión hacia afuera con su codo."
+      },
+      {
+        "technique": 9,
+        "description": "Hala con ambas manos y codazo al codo del oponente, igual que 5 de llave contra puño."
+      },
+      {
+        "technique": 10,
+        "description": "Igual que 5 de agarres a ambos brazos."
+      },
+      {
+        "technique": 11,
+        "description": "Con la palma libre, presiona el codo del atacante hacia abajo y hala para tumbar."
+      },
+      {
+        "technique": 12,
+        "description": "Con el filo de la mano libre presiona la base de la muñeca del atacante hacia abajo y hala para tumbar."
+      },
+      {
+        "technique": 13,
+        "description": "Igual que 18 de básicas."
+      },
+      {
+        "technique": 14,
+        "description": "Gira por el frente y avanza con la mano en la espalda."
+      },
+      {
+        "technique": 15,
+        "description": "Lanza con 9 de básicas."
+      },
+      {
+        "technique": 16,
+        "description": "Patea a los genitales, la mano libre flexiona."
       }
     ]
   },
