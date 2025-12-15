@@ -1082,15 +1082,131 @@
     "name": "Contra agarres de Judo",
     "subgroups": [
       {
-        "name": "",
+        "name": "Defensa con bloqueo",
         "techniques": [
           {
             "technique": 1,
-            "description": "Lorem ipsum"
+            "description": "Bloqueo de águila hacia afuera (la mano izquierda bloquea la mano izquierda)."
           },
           {
-            "technique": 1,
-            "description": "Lorem ipsum"
+            "technique": 2,
+            "description": "Bloqueo de águila hacia dentro (la mano izquierda bloquea la mano derecha)."
+          },
+          {
+            "technique": 3,
+            "description": "Montong Son-Nal Dung Pal Makki (por fuera)"
+          },
+          {
+            "technique": 4,
+            "description": "Montong Gecho Son-Nal Dung Pal Makki."
+          },
+          {
+            "technique": 5,
+            "description": "Montong Gecho Son-Nal Makki."
+          },
+          {
+            "technique": 6,
+            "description": "Doble bloqueo como Agum-Son hacia arriba en los codos."
+          }
+        ]
+      },
+      {
+        "name": "Defensa con golpe",
+        "techniques": [
+          {
+            "technique": 7,
+            "description": "Montong Gecho Son-Nal Makki, Dul Uon Galbi Gecho Chumok Chigi"
+          },
+          {
+            "technique": 8,
+            "description": "Montong Gecho Pal Makki, Dul Uon Neryo Batang-Son Gasum Chigi."
+          },
+          {
+            "technique": 9,
+            "description": "Montong Gecho Son-Nal Makki, Dul Uon An Son-Nal Mok Chigi."
+          },
+          {
+            "technique": 10,
+            "description": "Montong Gecho Son-Nal Makki, Dul Uon An Batang-Son kui Chigi."
+          },
+          {
+            "technique": 11,
+            "description": "Montong Gecho Son-Nal Makki, Chapki Pachigi Mouri Chigi."
+          }
+        ]
+      },
+      {
+        "name": "Defensa con patadas",
+        "techniques": [
+          {
+            "technique": 12,
+            "description": "Sale en diagonal hacia adelante, bloqueo de águia por fuera (mano derecha bloquea mano derecha) La mano libre agarra el codo del oponente. Con la pierna de atrás en AnDari Chanoki a la rodilla."
+          },
+          {
+            "technique": 13,
+            "description": "Sale en diagonal hacia adelante, bloqueo de águia por fuera (mano derecha bloquea mano derecha) La mano libre agarra el codo del oponente. Con la pierna de atrás BalDung Chagi al abdomen."
+          },
+          {
+            "technique": 14,
+            "description": "Sale en diagonal hacia adelante, bloqueo de águia por fuera (mano derecha bloquea mano derecha) La mano libre agarra el codo del oponente. Con la pierna de atrás Mureup Chagi al costado."
+          },
+          {
+            "technique": 15,
+            "description": "Montong Gecho Son-Nal Makki, Chapki, Myung Chi Mureup Chagi."
+          }
+        ]
+      },
+      {
+        "name": "Defensa con lanzamiento",
+        "techniques": [
+          {
+            "technique": 16,
+            "description": "Montong Gecho Son-Nal Makki, Chapki y con ambas manos agarran como 18 de básicas."
+          },
+          {
+            "technique": 17,
+            "description": "Mongong Gecho Son-Nal Makki, Chapki, con una de las manos agarra la nuca y lanza."
+          },
+          {
+            "technique": 18,
+            "description": "Mongong Gecho Son-Nal Makki, Chapki, extiende uno de los brazos del atacante con la palma hacia arriba giraandolo hacia abajo y adentro, el brazol libre  palanquea el codo del atancante, apoya en el hombro el brazo del oponente, haciendo presion hacia abao para lanzar."
+          },
+          {
+            "technique": 19,
+            "description": "Mongong Gecho Son-Nal Makki, Chapki, extiende uno de los brazos del atacante con la palma hacia arriba giraandolo hacia abajo y adentro, agarra el tobillo delantero del atacante para ayudar a lanzarlo por encima de los hombros."
+          },
+          {
+            "technique": 20,
+            "description": "Mongong Gecho Son-Nal Makki, Chapki, extiende uno de los brazos del atacante con la palma hacia arriba giraandolo hacia abajo y adentro, agarra la cintura del atancante para lanzarlo de a cadera."
+          }
+        ]
+      },
+      {
+        "name": "Defensa contra agarre de las solapas e impide ser lanzado",
+        "techniques": [
+          {
+            "technique": 21,
+            "description": "ChuChum Sogi."
+          },
+          {
+            "technique": 22,
+            "description": "Okoru Are Makki"
+          },
+          {
+            "technique": 23,
+            "description": "Pal Kup Chigi a la cadera evitando que gire."
+          },
+          {
+            "technique": 24,
+            "description": "Neryo An Batang Makki a la cadera haciendo que se sobregire."
+          },
+          {
+            "technique": 25,
+            "description": "Empuja el hombro trasero del oponente para deSontrolar su giro."
+          },
+          {
+            "technique": 26,
+            "description": "Hace sobre girar la cabeza del oponente en el sentido del giro empujandolo del menton para hacerlo caer."
           }
         ]
       }
