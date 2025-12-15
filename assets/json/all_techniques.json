@@ -964,19 +964,46 @@
   {
     "group": 9,
     "name": "Llave contra puño",
-    "subgroups": [
+    "techniques": [
       {
-        "name": "",
-        "techniques": [
-          {
-            "technique": 1,
-            "description": "Lorem ipsum"
-          },
-          {
-            "technique": 1,
-            "description": "Lorem ipsum"
-          }
-        ]
+        "technique": 1,
+        "description": "Con la mano derecha agarra la mano atacante hacia afuera y ejecuta como 17 de básicas devolviendola."
+      },
+      {
+        "technique": 2,
+        "description": "Con la mano izquierda agarra hacia adentro y devuelve como 16 de básicas."
+      },
+      {
+        "technique": 3,
+        "description": "Uen Montong Bakkat SonNal Makki, Chapki, ejecuta como 18 de básicas."
+      },
+      {
+        "technique": 4,
+        "description": "Orum Montong Bakkat SonNal Makki, Chapki, y golpea Uen Batang-Son a la cara, pasa la mano izquierda por debajo del codo del brazo atacante y ejerce presion hacia afuera mientras la mano derecha hace presión hacia atrás."
+      },
+      {
+        "technique": 5,
+        "description": "Orum Montong Bakkat SonNal Makki, agarra con las dos manos y continua el giro hacia atrás ejerciendo presión con el hombro en el brazo del atacante."
+      },
+      {
+        "technique": 6,
+        "description": "Uen Montong Bakkat SonNal Makki, Chapki, Con la mano derecha sujeto el hombro del atacante con mi codo por debajo, junto las manos y ejerce presión hacia afuera mientras la mano izquierda hace presión hacia atrás del hombro."
+      },
+      {
+        "technique": 7,
+        "description": "Uen Montong Bakkat SonNal Makki, con la mano derecha por debajo del codo del atacante, le giro el codo hacia el frente y lo dejo sostenido con la mano izquierda, y Orum Batang-Son al plexo."
+      },
+      {
+        "technique": 8,
+        "description": "Uen Montong Bakkat SonNal Makki, con la mano derecha por debajo del codo del atacante, le giro el codo hacia el frente y lo dejo sostenido con la mano izquierda, y Orum Pyon-Son Gi al Cuello mientras lo barro con la pierna iderecha."
+      },
+      {
+        "technique": 9,
+        "description": "Orum Chapki y devuelve como 21 de básicas, mientras golpea BalDung Bandal Ap Chagi."
+      },
+      {
+        "technique": 10,
+        "description": "Orum Chapki y devuelve como 21 de básicas, mientras golpea BalDung Bandal Ap Chagi y Ap Chagi en la cadera."
       }
     ]
   },
