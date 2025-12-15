@@ -889,15 +889,73 @@
     "name": "Agarre a ambos brazos",
     "subgroups": [
       {
-        "name": "",
+        "name": "Ambas muñecas",
         "techniques": [
           {
             "technique": 1,
-            "description": "Lorem ipsum"
+            "description": "Patada a los genitales, como 17 de las básicas."
           },
           {
-            "technique": 1,
-            "description": "Lorem ipsum"
+            "technique": 2,
+            "description": "Patada a los genitales, como 18 de las básicas."
+          },
+          {
+            "technique": 3,
+            "description": "Patada a los genitales, lanzamiento como de judo por fuera."
+          },
+          {
+            "technique": 4,
+            "description": "Choca muñecas hacia adentro y arriba, tuerce y cruza hacia abajo y lanzamiento de aikido con los brazos cruzados."
+          },
+          {
+            "technique": 5,
+            "description": "Agarra con la mano contraria la muñeca del atacante, levanta sobre el hombro a partir el codo y luego lanzamiento de de judo por dentro."
+          },
+          {
+            "technique": 6,
+            "description": "Como 20 de las básicas pero lanzando."
+          },
+          {
+            "technique": 7,
+            "description": "Como 20 de las básicas pero hala el brazo doblado hacia atrás."
+          },
+          {
+            "technique": 8,
+            "description": "Como 4 pero juntan espaldas y deja caer."
+          },
+          {
+            "technique": 9,
+            "description": "Abanico con las dos manos."
+          },
+          {
+            "technique": 10,
+            "description": "Conducción hacia atras con lanzamiento al final."
+          }
+        ]
+      },
+      {
+        "name": "Ambos codos",
+        "techniques": [
+          {
+            "technique": 11,
+            "description": "Abre una mano, y la otra, desequilibra empujando con Son Nal al cuello o mandíbula."
+          },
+          {
+            "technique": 12,
+            "description": "Como 23 de las básicas."
+          }
+        ]
+      },
+      {
+        "name": "Ambos hombros",
+        "techniques": [
+          {
+            "technique": 13,
+            "description": "Agacho y por un lado agarro la cadera y giro al oponente."
+          },
+          {
+            "technique": 14,
+            "description": "Agacho y por un lado desnuca."
           }
         ]
       }
