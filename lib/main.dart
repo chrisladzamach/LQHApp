@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:lqh_app/screens/home_menu.dart';
+import 'package:lqh_app/screens/home/home_menu.dart';
 
 void main() {
   runApp(const MyApp());
@@ -10,12 +10,6 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      // title: 'Material App',
-      debugShowCheckedModeBanner: false,
-      // home: Scaffold(body: Column(children: [HomeMenu()])),
-      
-      home: HomeMenu(),
-    );
+    return MaterialApp(debugShowCheckedModeBanner: false, home: HomeMenu());
   }
 }
