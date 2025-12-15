@@ -1,0 +1,638 @@
+{
+  "blanco": {
+    "defensaPersonal": [
+      "15 llaves de bakkat son mok",
+      "5 llaves de an son mok"
+    ],
+    "figurasSinArmas": [
+      "Joong Do Il Dan"
+    ],
+    "basicosSinArmas": ["1er Básico en cuadrado", "1er Básico de respiración 1/3"],
+    "basicosConArmas": ["10 Nunchakus"]
+  },
+
+  "amarillo": {
+    "defensaPersonal": [
+      "28 llaves de bakkat son mok",
+      "10 llaves de an son mok"
+    ],
+    "figurasSinArmas": [
+      "Jang Bong Il Dan"
+    ],
+    "basicosSinArmas": ["1er Básico en cuadrado", "2do Básico en cuadrado", "1er Básico de respiración 2/3"],
+    "basicosConArmas": ["20 Nunchakus"]
+  },
+
+  "naranja": {
+    "defensaPersonal": [
+      "46 llaves de bakkat son mok",
+      "15 llaves de an son mok"
+    ],
+    "figurasSinArmas": [
+      "Joong Do Il Dan",
+      "Won Il Dan"
+    ],
+    "basicosSinArmas": [
+      "1er Básico en cuadrado", 
+      "2do Básico en cuadrado", 
+      "3er Básico en cuadrado", 
+      "1er Básico de respiración 3/3"
+    ],
+    "basicosConArmas": ["25 Nunchakus"]
+  },
+
+  "verde": {
+    "defensaPersonal": [
+      "46 llaves de bakkat son mok",
+      "20 llaves de an son mok",
+      "10 puño contra puño",
+      "12 agarres por la espalda"
+    ],
+    "figurasSinArmas": [
+      "Jang Bong Il Dan",
+      "Won Il Dan",
+      "Joong Do I Dan"
+    ],
+    "figurasConArmas": ["I Chol Bong Il Dan"],
+    "basicosSinArmas": [
+      "1er Básico en cuadrado", 
+      "2do Básico en cuadrado", 
+      "3er Básico en cuadrado", 
+      "1er Básico de respiración", 
+      "básico de hakdari", 
+      "1er básico de geumgang", 
+      "2do básico de geumgang"
+    ],
+    "basicosConArmas": ["30 Nunchakus"]
+  },
+  
+  "azul": {
+    "defensaPersonal": [
+      "46 llaves de bakkat son mok",
+      "25 llaves de an son mok",
+      "10 puño contra puño",
+      "12 agarres por la espalda",
+      "10 patada contra puño",
+      "14 contra abrazos"
+    ],
+    "figurasSinArmas": [
+      "Joong Do Il Dan",
+      "Won Il Dan",
+      "Joong Do I Dan",
+      "Won I Dan"
+    ],
+    "figurasConArmas": ["I Chol Bong Il Dan", "Jang Bong Il Dan"],
+    "basicosSinArmas": [
+      "1er Básico en cuadrado", 
+      "2do Básico en cuadrado", 
+      "3er Básico en cuadrado", 
+      "1er Básico de respiración",
+      "2do básico de respiración 1/2",
+      "básico de hakdari", 
+      "1er básico de geumgang", 
+      "2do básico de geumgang",
+      "3er básico de geumgang", 
+      "4to básico de geumgang"
+    ],
+    "basicosConArmas": ["35 Nunchakus", "10 Jang Bong"]
+  },
+  
+  "purpura": {
+    "defensaPersonal": [
+      "46 llaves de bakkat son mok",
+      "30 llaves de an son mok",
+      "10 puño contra puño",
+      "12 agarres por la espalda",
+      "10 patada contra puño",
+      "14 contra abrazos",
+      "16 sentados"
+    ],
+    "figurasSinArmas": [
+      "Joong Do Il Dan",
+      "Won Il Dan",
+      "Joong Do I Dan",
+      "Won I Dan",
+      "Joong Do Sam Dan"
+    ],
+    "figurasConArmas": ["I Chol Bong Il Dan", "Jang Bong Il Dan", "I Chol Bong I Dan"],
+    "basicosSinArmas": [
+      "1er Básico en cuadrado", 
+      "2do Básico en cuadrado", 
+      "3er Básico en cuadrado", 
+      "1er Básico de respiración",
+      "2do básico de respiración 1/2",
+      "básico de hakdari", 
+      "1er básico de geumgang", 
+      "2do básico de geumgang",
+      "3er básico de geumgang", 
+      "4to básico de geumgang",
+      "Ataque y defensa con Jang Bong (individual)",
+      "Ataque y defensa con Jang Bong (parejas)"
+    ],
+    "basicosConArmas": ["40 Nunchakus", "20 Jang Bong"]
+  },
+  
+  "rojo": {
+    "defensaPersonal": [
+      "46 llaves de bakkat son mok",
+      "35 llaves de an son mok",
+      "10 puño contra puño",
+      "12 agarres por la espalda",
+      "10 patada contra puño",
+      "14 contra abrazos",
+      "16 sentados",
+      "14 agarres a ambos brazos"
+
+    ],
+    "figurasSinArmas": [
+      "Joong Do Il Dan",
+      "Won Il Dan",
+      "Joong Do I Dan",
+      "Won I Dan",
+      "Joong Do Sam Dan",
+      "Won Sam Dan"
+    ],
+    "figurasConArmas": ["I Chol Bong Il Dan", "Jang Bong Il Dan", "I Chol Bong I Dan", "Jang Bong I Dan"],
+    "basicosSinArmas": [
+      "1er Básico en cuadrado", 
+      "2do Básico en cuadrado", 
+      "3er Básico en cuadrado", 
+      "1er Básico de respiración",
+      "2do básico de respiración 1/2",
+      "básico de hakdari", 
+      "1er básico de geumgang", 
+      "2do básico de geumgang",
+      "3er básico de geumgang", 
+      "4to básico de geumgang",
+      "Ataque y defensa con Jang Bong (individual)",
+      "Ataque y defensa con Jang Bong (parejas)",
+      "4to básico en cuadrado"
+    ],
+    "basicosConArmas": ["40 Nunchakus", "22 Jang Bong", "10 nunchakus dobles"]
+  },
+  
+  "rojoMarron": {
+    "defensaPersonal": [
+      "46 llaves de bakkat son mok",
+      "40 llaves de an son mok",
+      "10 puño contra puño",
+      "12 agarres por la espalda",
+      "10 patada contra puño",
+      "14 contra abrazos",
+      "16 sentados",
+      "14 agarres a ambos brazos",
+      "10 llave contra puño",
+      "16 saludo y conducción"
+    ],
+    "figurasSinArmas": [
+      "Joong Do Il Dan",
+      "Won Il Dan",
+      "Joong Do I Dan",
+      "Won I Dan",
+      "Joong Do Sam Dan",
+      "Won Sam Dan",
+      "Joong Do Sa Dan"
+    ],
+    "figurasConArmas": ["I Chol Bong Il Dan", "Jang Bong Il Dan", "I Chol Bong I Dan", "Jang Bong I Dan"],
+    "basicosSinArmas": [
+      "1er Básico en cuadrado", 
+      "2do Básico en cuadrado", 
+      "3er Básico en cuadrado", 
+      "1er Básico de respiración",
+      "2do básico de respiración 1/2",
+      "básico de hakdari", 
+      "1er básico de geumgang", 
+      "2do básico de geumgang",
+      "3er básico de geumgang", 
+      "4to básico de geumgang",
+      "Ataque y defensa con Jang Bong (individual)",
+      "Ataque y defensa con Jang Bong (parejas)",
+      "4to básico en cuadrado",
+      "5to básico en cuadrado"
+    ],
+    "basicosConArmas": ["40 Nunchakus", "22 Jang Bong", "20 nunchakus dobles"]
+  },
+  
+  "marron": {
+    "defensaPersonal": [
+      "46 llaves de bakkat son mok",
+      "46 llaves de an son mok",
+      "10 puño contra puño",
+      "12 agarres por la espalda",
+      "10 patada contra puño",
+      "14 contra abrazos",
+      "16 sentados",
+      "14 agarres a ambos brazos",
+      "10 llave contra puño",
+      "16 saludo y conducción",
+      "26 contra agarres de Judo"
+    ],
+    "figurasSinArmas": [
+      "Joong Do Il Dan",
+      "Won Il Dan",
+      "Joong Do I Dan",
+      "Won I Dan",
+      "Joong Do Sam Dan",
+      "Won Sam Dan",
+      "Joong Do Sa Dan"
+    ],
+    "figurasConArmas": ["I Chol Bong Il Dan", "Jang Bong Il Dan", "I Chol Bong I Dan", "Jang Bong I Dan", "I Chol Bong Sam Dan"],
+    "basicosSinArmas": [
+      "1er Básico en cuadrado", 
+      "2do Básico en cuadrado", 
+      "3er Básico en cuadrado", 
+      "1er Básico de respiración",
+      "2do básico de respiración 1/2",
+      "básico de hakdari", 
+      "1er básico de geumgang", 
+      "2do básico de geumgang",
+      "3er básico de geumgang", 
+      "4to básico de geumgang",
+      "Ataque y defensa con Jang Bong (individual)",
+      "Ataque y defensa con Jang Bong (parejas)",
+      "4to básico en cuadrado",
+      "5to básico en cuadrado"
+    ],
+    "basicosConArmas": ["40 Nunchakus", "22 Jang Bong", "30 nunchakus dobles"]
+  },
+  
+  "marronNegro": {
+    "defensaPersonal": [
+      "46 llaves de bakkat son mok",
+      "46 llaves de an son mok",
+      "10 puño contra puño",
+      "12 agarres por la espalda",
+      "10 patada contra puño",
+      "14 contra abrazos",
+      "16 sentados",
+      "14 agarres a ambos brazos",
+      "10 llave contra puño",
+      "16 saludo y conducción",
+      "26 contra agarres de Judo",
+      "14 defensa acostado"
+    ],
+    "figurasSinArmas": [
+      "Joong Do Il Dan",
+      "Won Il Dan",
+      "Joong Do I Dan",
+      "Won I Dan",
+      "Joong Do Sam Dan",
+      "Won Sam Dan",
+      "Joong Do Sa Dan",
+      "Joong Do O Dan"
+    ],
+    "figurasConArmas": ["I Chol Bong Il Dan", "Jang Bong Il Dan", "I Chol Bong I Dan", "Jang Bong I Dan", "I Chol Bong Sam Dan", "Jang Bong Sam Dan"],
+    "basicosSinArmas": [
+      "1er Básico en cuadrado", 
+      "2do Básico en cuadrado", 
+      "3er Básico en cuadrado", 
+      "1er Básico de respiración",
+      "2do básico de respiración 1/2",
+      "básico de hakdari", 
+      "1er básico de geumgang", 
+      "2do básico de geumgang",
+      "3er básico de geumgang", 
+      "4to básico de geumgang",
+      "Ataque y defensa con Jang Bong (individual)",
+      "Ataque y defensa con Jang Bong (parejas)",
+      "4to básico en cuadrado",
+      "5to básico en cuadrado"
+    ],
+    "basicosConArmas": ["40 Nunchakus", "22 Jang Bong", "30 nunchakus dobles"]
+  },
+  
+  "negro1": {
+    "defensaPersonal": [
+      "46 llaves de bakkat son mok",
+      "46 llaves de an son mok",
+      "10 puño contra puño",
+      "12 agarres por la espalda",
+      "10 patada contra puño",
+      "14 contra abrazos",
+      "16 sentados",
+      "14 agarres a ambos brazos",
+      "10 llave contra puño",
+      "16 saludo y conducción",
+      "26 contra agarres de Judo",
+      "14 defensa acostado",
+      "20 llave contra patada",
+      "30 defensa contra cuchillo"
+    ],
+    "figurasSinArmas": [
+      "Joong Do Il Dan",
+      "Won Il Dan",
+      "Joong Do I Dan",
+      "Won I Dan",
+      "Joong Do Sam Dan",
+      "Won Sam Dan",
+      "Joong Do Sa Dan",
+      "Joong Do O Dan",
+      "Joong Do Sa Dan (con música)",
+      "Joong Do O Dan (con música)",
+      "Ki Hap"
+    ],
+    "figurasConArmas": ["I Chol Bong Il Dan", "Jang Bong Il Dan", "I Chol Bong I Dan", "Jang Bong I Dan", "I Chol Bong Sam Dan", "Jang Bong Sam Dan", "Tang Bong Il Dan"],
+    "basicosSinArmas": [
+      "1er Básico en cuadrado", 
+      "2do Básico en cuadrado", 
+      "3er Básico en cuadrado", 
+      "1er Básico de respiración",
+      "2do básico de respiración 1/2",
+      "básico de hakdari", 
+      "1er básico de geumgang", 
+      "2do básico de geumgang",
+      "3er básico de geumgang", 
+      "4to básico de geumgang",
+      "Ataque y defensa con Jang Bong (individual)",
+      "Ataque y defensa con Jang Bong (parejas)",
+      "4to básico en cuadrado",
+      "5to básico en cuadrado"
+    ],
+    "basicosConArmas": ["40 Nunchakus", "22 Jang Bong", "30 nunchakus dobles", "43 Chuk Kun", "29 Tang Bong"]
+  },
+
+  "negro2": {
+    "defensaPersonal": [
+      "46 llaves de bakkat son mok",
+      "46 llaves de an son mok",
+      "10 puño contra puño",
+      "12 agarres por la espalda",
+      "10 patada contra puño",
+      "14 contra abrazos",
+      "16 sentados",
+      "14 agarres a ambos brazos",
+      "10 llave contra puño",
+      "16 saludo y conducción",
+      "26 contra agarres de Judo",
+      "14 defensa acostado",
+      "20 llave contra patada",
+      "60 defensa contra cuchillo",
+      "15 llave con palo corto",
+      "20 mano vacía contra arma de fuego",
+      "10 sentado en silla"
+    ],
+    "figurasSinArmas": [
+      "Joong Do Il Dan",
+      "Won Il Dan",
+      "Joong Do I Dan",
+      "Won I Dan",
+      "Joong Do Sam Dan",
+      "Won Sam Dan",
+      "Joong Do Sa Dan",
+      "Joong Do O Dan",
+      "Joong Do Sa Dan (con música)",
+      "Joong Do O Dan (con música)",
+      "Ki Hap"
+    ],
+    "figurasConArmas": [
+      "I Chol Bong Il Dan", 
+      "Jang Bong Il Dan", 
+      "I Chol Bong I Dan", 
+      "Jang Bong I Dan", 
+      "I Chol Bong Sam Dan", 
+      "Jang Bong Sam Dan", 
+      "Tang Bong Il Dan", 
+      "Chan Il Dan", 
+      "Puche Il Dan"
+    ],
+    "basicosSinArmas": [
+      "1er Básico en cuadrado", 
+      "2do Básico en cuadrado", 
+      "3er Básico en cuadrado", 
+      "1er Básico de respiración",
+      "2do básico de respiración 1/2",
+      "básico de hakdari", 
+      "1er básico de geumgang", 
+      "2do básico de geumgang",
+      "3er básico de geumgang", 
+      "4to básico de geumgang",
+      "Ataque y defensa con Jang Bong (individual)",
+      "Ataque y defensa con Jang Bong (parejas)",
+      "4to básico en cuadrado",
+      "5to básico en cuadrado"
+    ],
+    "basicosConArmas": ["40 Nunchakus", "22 Jang Bong", "30 nunchakus dobles", "43 Chuk Kun", "29 Tang Bong", "16 Defensa de chuk kun con tang bong o chuk kun", "Ataques y defensa con Sai"]
+  },
+
+  "negro3": {
+    "defensaPersonal": [
+      "46 llaves de bakkat son mok",
+      "46 llaves de an son mok",
+      "10 puño contra puño",
+      "12 agarres por la espalda",
+      "10 patada contra puño",
+      "14 contra abrazos",
+      "16 sentados",
+      "14 agarres a ambos brazos",
+      "10 llave contra puño",
+      "16 saludo y conducción",
+      "26 contra agarres de Judo",
+      "14 defensa acostado",
+      "20 llave contra patada",
+      "60 defensa contra cuchillo",
+      "15 llave con palo corto",
+      "20 mano vacía contra arma de fuego",
+      "10 sentado en silla",
+      "14 defensa con bastón",
+      "10 defensa de chuk kun con tang bong"
+    ],
+    "figurasSinArmas": [
+      "Joong Do Il Dan",
+      "Won Il Dan",
+      "Joong Do I Dan",
+      "Won I Dan",
+      "Joong Do Sam Dan",
+      "Won Sam Dan",
+      "Joong Do Sa Dan",
+      "Joong Do O Dan",
+      "Joong Do Sa Dan (con música)",
+      "Joong Do O Dan (con música)",
+      "Ki Hap"
+    ],
+    "figurasConArmas": [
+      "I Chol Bong Il Dan", 
+      "Jang Bong Il Dan", 
+      "I Chol Bong I Dan", 
+      "Jang Bong I Dan", 
+      "I Chol Bong Sam Dan", 
+      "Jang Bong Sam Dan", 
+      "Tang Bong Il Dan", 
+      "Chan Il Dan", 
+      "Puche Il Dan",
+      "Puche I Dan"
+    ],
+    "basicosSinArmas": [
+      "1er Básico en cuadrado", 
+      "2do Básico en cuadrado", 
+      "3er Básico en cuadrado", 
+      "1er Básico de respiración",
+      "2do básico de respiración 1/2",
+      "básico de hakdari", 
+      "1er básico de geumgang", 
+      "2do básico de geumgang",
+      "3er básico de geumgang", 
+      "4to básico de geumgang",
+      "Ataque y defensa con Jang Bong (individual)",
+      "Ataque y defensa con Jang Bong (parejas)",
+      "4to básico en cuadrado",
+      "5to básico en cuadrado"
+    ],
+    "basicosConArmas": ["40 Nunchakus", "22 Jang Bong", "30 nunchakus dobles", "43 Chuk Kun", "29 Tang Bong", "16 Defensa de chuk kun con tang bong o chuk kun", "Desenfundes y enfundes de sable (4 desenvaines)"]
+  },
+
+  "negro4": {
+    "defensaPersonal": [
+      "46 llaves de bakkat son mok",
+      "46 llaves de an son mok",
+      "10 puño contra puño",
+      "12 agarres por la espalda",
+      "10 patada contra puño",
+      "14 contra abrazos",
+      "16 sentados",
+      "14 agarres a ambos brazos",
+      "10 llave contra puño",
+      "16 saludo y conducción",
+      "26 contra agarres de Judo",
+      "14 defensa acostado",
+      "20 llave contra patada",
+      "60 defensa contra cuchillo",
+      "15 llave con palo corto",
+      "20 mano vacía contra arma de fuego",
+      "10 sentado en silla",
+      "14 defensa con bastón",
+      "10 defensa de chuk kun con tang bong",
+      "10 defensa con cinturón",
+      "10 defensa contra chuk kun con mano vacía",
+      "10 defensa contra cuchillo con palo corto"
+    ],
+    "figurasSinArmas": [
+      "Joong Do Il Dan",
+      "Won Il Dan",
+      "Joong Do I Dan",
+      "Won I Dan",
+      "Joong Do Sam Dan",
+      "Won Sam Dan",
+      "Joong Do Sa Dan",
+      "Joong Do O Dan",
+      "Joong Do Sa Dan (con música)",
+      "Joong Do O Dan (con música)",
+      "Ki Hap"
+    ],
+    "figurasConArmas": [
+      "I Chol Bong Il Dan", 
+      "Jang Bong Il Dan", 
+      "I Chol Bong I Dan", 
+      "Jang Bong I Dan", 
+      "I Chol Bong Sam Dan", 
+      "Jang Bong Sam Dan", 
+      "Tang Bong Il Dan", 
+      "Chan Il Dan", 
+      "Puche Il Dan",
+      "Puche I Dan"
+    ],
+    "basicosSinArmas": [
+      "1er Básico en cuadrado", 
+      "2do Básico en cuadrado", 
+      "3er Básico en cuadrado", 
+      "1er Básico de respiración",
+      "2do básico de respiración 1/2",
+      "básico de hakdari", 
+      "1er básico de geumgang", 
+      "2do básico de geumgang",
+      "3er básico de geumgang", 
+      "4to básico de geumgang",
+      "Ataque y defensa con Jang Bong (individual)",
+      "Ataque y defensa con Jang Bong (parejas)",
+      "4to básico en cuadrado",
+      "5to básico en cuadrado"
+    ],
+    "basicosConArmas": [
+      "40 Nunchakus", 
+      "22 Jang Bong", 
+      "30 nunchakus dobles", 
+      "43 Chuk Kun", 
+      "29 Tang Bong", 
+      "16 Defensa de chuk kun con tang bong o chuk kun", 
+      "Desenfundes y enfundes de sable (4 desenvaines)",
+      "Manejo básico de sable"
+    ]
+  },
+  "negro5": {
+    "defensaPersonal": [
+      "46 llaves de bakkat son mok",
+      "46 llaves de an son mok",
+      "10 puño contra puño",
+      "12 agarres por la espalda",
+      "10 patada contra puño",
+      "14 contra abrazos",
+      "16 sentados",
+      "14 agarres a ambos brazos",
+      "10 llave contra puño",
+      "16 saludo y conducción",
+      "26 contra agarres de Judo",
+      "14 defensa acostado",
+      "20 llave contra patada",
+      "60 defensa contra cuchillo",
+      "15 llave con palo corto",
+      "20 mano vacía contra arma de fuego",
+      "10 sentado en silla",
+      "14 defensa con bastón",
+      "10 defensa de chuk kun con tang bong",
+      "10 defensa con cinturón",
+      "10 defensa contra chuk kun con mano vacía",
+      "10 defensa contra cuchillo con palo corto"
+    ],
+    "figurasSinArmas": [
+      "Joong Do Il Dan",
+      "Won Il Dan",
+      "Joong Do I Dan",
+      "Won I Dan",
+      "Joong Do Sam Dan",
+      "Won Sam Dan",
+      "Joong Do Sa Dan",
+      "Joong Do O Dan",
+      "Joong Do Sa Dan (con música)",
+      "Joong Do O Dan (con música)",
+      "Ki Hap"
+    ],
+    "figurasConArmas": [
+      "I Chol Bong Il Dan", 
+      "Jang Bong Il Dan", 
+      "I Chol Bong I Dan", 
+      "Jang Bong I Dan", 
+      "I Chol Bong Sam Dan", 
+      "Jang Bong Sam Dan", 
+      "Tang Bong Il Dan", 
+      "Chan Il Dan", 
+      "Puche Il Dan",
+      "Puche I Dan"
+    ],
+    "basicosSinArmas": [
+      "1er Básico en cuadrado", 
+      "2do Básico en cuadrado", 
+      "3er Básico en cuadrado", 
+      "1er Básico de respiración",
+      "2do básico de respiración 1/2",
+      "básico de hakdari", 
+      "1er básico de geumgang", 
+      "2do básico de geumgang",
+      "3er básico de geumgang", 
+      "4to básico de geumgang",
+      "Ataque y defensa con Jang Bong (individual)",
+      "Ataque y defensa con Jang Bong (parejas)",
+      "4to básico en cuadrado",
+      "5to básico en cuadrado"
+    ],
+    "basicosConArmas": [
+      "40 Nunchakus", 
+      "22 Jang Bong", 
+      "30 nunchakus dobles", 
+      "43 Chuk Kun", 
+      "29 Tang Bong", 
+      "16 Defensa de chuk kun con tang bong o chuk kun", 
+      "Desenfundes y enfundes de sable (4 desenvaines)",
+      "Manejo básico de sable",
+      "Manejo de sable y aplicaciones reales de corte"
+    ]
+  }
+}

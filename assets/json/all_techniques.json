@@ -1,0 +1,703 @@
+[
+  {
+    "grupo": 1,
+    "name": "Agarre lineal de muñeca (derecha a izquierda)",
+    "subgroups": [
+      {
+        "name": "Agarre de muñeca",
+        "techniques": [
+          {
+            "technique": 1,
+            "description": "Abre la mano, hace un chuzón a los ojos con la palma hacia arriba, y luego, pega un puño con el nudillo medio a los metacarpos de la mano que sujeta."
+          },
+          {
+            "technique": 2,
+            "description":
+                  "Saliendo por el lado de la mano agarrada en Ap Kubi, ejecuta Batang Son al esternón."
+          },
+          {
+            "technique": 3,
+            "description": "Saliendo por el lado de la mano agarrada en Ap Kubi, ejecuta Chunji Pam Chumok Chigi al plexo."
+          },
+          {
+            "technique": 4,
+            "description": "Abre la mano, la gira hacia afuera (altura de la cabeza), bloqueo con mi rodilla la rodilla del oponente para desequilibrarlo y que no se mueva, Luego, ejecuta Pal Kup a las costillas."
+          },
+          {
+            "technique": 5,
+            "description": "Gira la mano hacia adentro para exponer y tensionar el pronador del codo, luego realiza Son Nal Chigi al pronador y luego otro al cuello."
+          },
+          {
+            "technique": 6,
+            "description": "Chuzón hacia atrás en diagonal girando la mano hacia adentro para liberarse en ChumChum Sogi y luego Pal Kup al plexo."
+          },
+          {
+            "technique": 7,
+            "description": "Expone la muñeca, Batang Son y con la mano liberada ejecuta An Son Nal Chigi al cuello."
+          },
+          {
+            "technique": 8,
+            "description": "Expone la muñeca, Batang Son y con la mano liberada gira por dentro y realiza Pal Kup al plexo."
+          },
+          {
+            "technique": 9,
+            "description": "Levanta el brazo y se mete por debajo en Chu Chum Sogi y realiza Pal Kup al plexo."
+          },
+          {
+            "technique": 10,
+            "description": "Chuzón hacia atrás en diagonal girando la mano hacia adentro para liberarse en ChumChum Sogi y luego realiza Son Karak a la cara."
+          },
+          {
+            "technique": 11,
+            "description": "Hala al oponente, y ejecuta An Dary Chanoki a la rodilla."
+          },
+          {
+            "technique": 12,
+            "description": "Hala al oponente, y ejecuta Mureup Chagi a la ingle."
+          },
+          {
+            "technique": 13,
+            "description": "Levanta el brazo y Chong Kang I Ap Chanoki a las costillas."
+          },
+          {
+            "technique": 14,
+            "description": "Agarra del cabello y ejecuta Mureup Chagi a la cara."
+          },
+          {
+            "technique": 15,
+            "description": "Agarra por la nuca al oponente (con el pulgar hacia abajo por el lado contrario al lado agarrado). Presiona el costado del cuello con el dedo del corazón, para hacerlo bajar. Luego realizaMureup Chagi al plexo."
+          },
+          {
+            "technique": 16,
+            "description": "Abre la mano, gira la mano quedando el dorso mirando hacia abajo; con la otra mano agarra la mano del oponente, le gira la mano haciendo llave y con el filo de la mano libre ayuda a la palanca."
+          },
+          {
+            "technique": 17,
+            "description": "La mano agarrada hace una 'U' con los dedos pulgar e índice, hacia arriba para sujetar la muñeca del oponente, la mano libre agarra la mano del oponente por los metacarpos, gira hacia adentro llevando a que la mano del oponente quede en 'U' (con los dedos apuntando hacia arriba) mientras hala para extender el brazo del oponente para quedar con el codo del agarre, sobre el codo del oponente a la vez que hace presión hacia al el oponente en la muñeca."
+          },
+          {
+            "technique": 18,
+            "description": "Agarra la muñeca y gira por dentro hacia afuera ejecutando 16."
+          },
+          {
+            "technique": 19,
+            "description": "Misma 5 pero atrayendo al plexo y asestando un codazo descendente en el codo."
+          },
+          {
+            "technique": 20,
+            "description": "Hace presión en el musculo lateral del codo y gira por dentro, agarra del cinturón y el cabello y ejecuta chokto doligi en la parte anterior de la rodilla."
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de la casaca (boca manga)",
+        "tecnicas": [
+          {
+            "technique": 21,
+            "description": "Agarra los metacarpos, torsión hacia adentro y pam chumok a la axila."
+          },
+          {
+            "technique": 22,
+            "description": "Péndulo a la par con Batang Son el plexo."
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de la casaca (codo)",
+        "tecnicas": [
+          {
+            "technique": 23,
+            "description": "Sujeta los metacarpos para asegurar la mano, y ejecuta pion Son por dentro y hacia abajo."
+          },
+          {
+            "technique": 24,
+            "description": "Misma 23 pero continua el movimiento pasando por debajo del brazo y hace presión en el codo con el antebrazo."
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de la casaca (hombro)",
+        "tecnicas": [
+          {
+            "technique": 25,
+            "description": "Igual que 21."
+          },
+          {
+            "technique": 26,
+            "description": "Igual que 17."
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de la casaca (cuello de la casaca / nuca)",
+        "tecnicas": [
+          {
+            "technique": 27,
+            "description": "Con las dos manos rodeando el codo ejecuta presión hacia abajo. (partir el codo)"
+          },
+          {
+            "technique": 28,
+            "description": "Tango."
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de la casaca (solapas / pecho, pulgar hacia arriba)",
+        "tecnicas": [
+          {
+            "technique": 29,
+            "description": "Saludo chino."
+          },
+          {
+            "technique": 30,
+            "description": "Igual que 17."
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de la casaca (solapas / pecho, subiendo después de agarrar)",
+        "tecnicas": [
+          {
+            "technique": 31,
+            "description": "Presión en dedo pulgar hacia atrás."
+          },
+          {
+            "technique": 32,
+            "description": "Gira la cabeza hacia el lado de la mano que está agarrando, para desnucar."
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de la casaca (solapas / pecho, mano invertida, pulgar hacia abajo)",
+        "tecnicas": [
+          {
+            "technique": 33,
+            "description": "Cocodrilo."
+          },
+          {
+            "technique": 34,
+            "description": "Golpe con el antebrazo al codo."
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de cinturón (de frente, dedos hacia arriba)",
+        "tecnicas": [
+          {
+            "technique": 35,
+            "description": "Pam chumok a los metacarpos."
+          },
+          {
+            "technique": 36,
+            "description": "Aplauso al codo."
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de cinturón (de frente, dedos hacia abajo)",
+        "tecnicas": [
+          {
+            "technique": 37,
+            "description": "Presión en dedo pulgar."
+          },
+          {
+            "technique": 38,
+            "description": "Asegura y presión hacia arriba agarrado de la casaca."
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de cinturón (cadera izquierda o derecha)",
+        "tecnicas": [
+          {
+            "technique": 39,
+            "description": "asegura y ejecuta iop chagui."
+          },
+          {
+            "technique": 40,
+            "description": "asegura con el antebrazo por debajo, con el otro brazo lo baja y sube haciendo presión en el cuello con los dos brazos."
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de casaca (pecho, izquierdo o derecho)",
+        "tecnicas": [
+          {
+            "technique": 41,
+            "description": "Como 29"
+          },
+          {
+            "technique": 42,
+            "description": "Codazo al codo, devuelve con otro codazo por dentro y ejecuta un último codazo a la cara."
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de cabeza (cabello / cabeza)",
+        "tecnicas": [
+          {
+            "technique": 43,
+            "description": "Toalla."
+          },
+          {
+            "technique": 44,
+            "description": "Saludo chino."
+          },
+          {
+            "technique": 45,
+            "description": "Cocodrilo"
+          },
+          {
+            "technique": 46,
+            "description": "Bloqueo hacia abajo y puño al mentón."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "grupo": 2,
+    "name": "Agarre cruzado de muñeca (derecha a derecha)",
+    "subgroups": [
+      {
+        "name": "Agarre de muñeca",
+        "techniques": [
+          {
+            "technique": 1,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 2,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 3,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 4,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 5,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 6,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 7,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 8,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 9,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 10,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 11,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 12,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 13,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 14,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 15,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 16,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 17,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 18,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 19,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 20,
+            "description": "Lorem ipsum"
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de la casaca (boca manga)",
+        "tecnicas": [
+          {
+            "technique": 21,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 22,
+            "description": "Lorem ipsum"
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de la casaca (codo)",
+        "tecnicas": [
+          {
+            "technique": 23,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 24,
+            "description": "Lorem ipsum"
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de la casaca (hombro)",
+        "tecnicas": [
+          {
+            "technique": 25,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 26,
+            "description": "Lorem ipsum"
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de la casaca (cuello de la casaca / nuca)",
+        "tecnicas": [
+          {
+            "technique": 27,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 28,
+            "description": "Lorem ipsum"
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de la casaca (solapas / pecho, pulgar hacia arriba)",
+        "tecnicas": [
+          {
+            "technique": 29,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 30,
+            "description": "Lorem ipsum"
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de la casaca (solapas / pecho, subiendo después de agarrar)",
+        "tecnicas": [
+          {
+            "technique": 31,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 32,
+            "description": "Lorem ipsum"
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de la casaca (solapas / pecho, mano invertida, pulgar hacia abajo)",
+        "tecnicas": [
+          {
+            "technique": 33,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 34,
+            "description": "Lorem ipsum"
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de cinturón (de frente, dedos hacia arriba)",
+        "tecnicas": [
+          {
+            "technique": 35,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 36,
+            "description": "Lorem ipsum"
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de cinturón (de frente, dedos hacia abajo)",
+        "tecnicas": [
+          {
+            "technique": 37,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 38,
+            "description": "Lorem ipsum"
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de cinturón (cadera izquierda o derecha)",
+        "tecnicas": [
+          {
+            "technique": 39,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 40,
+            "description": "Lorem ipsum"
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de casaca (pecho, izquierdo o derecho)",
+        "tecnicas": [
+          {
+            "technique": 41,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 42,
+            "description": "Lorem ipsum"
+          }
+        ]
+      },
+      {
+        "nombre": "Agarre de cabeza (cabello / cabeza)",
+        "tecnicas": [
+          {
+            "technique": 43,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 44,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 45,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 46,
+            "description": "Lorem ipsum"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": 3,
+    "name": "Puño contra puño",
+    "subgroups": [
+      {
+        "name": "",
+        "techniques": [
+          {
+            "technique": 1,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 1,
+            "description": "Lorem ipsum"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": 4,
+    "name": "Contra agarres por la espalda",
+    "subgroups": [
+      {
+        "name": "",
+        "techniques": [
+          {
+            "technique": 1,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 1,
+            "description": "Lorem ipsum"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": 5,
+    "name": "Patada contra puño",
+    "subgroups": [
+      {
+        "name": "",
+        "techniques": [
+          {
+            "technique": 1,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 1,
+            "description": "Lorem ipsum"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": 6,
+    "name": "Contra abrazos",
+    "subgroups": [
+      {
+        "name": "",
+        "techniques": [
+          {
+            "technique": 1,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 1,
+            "description": "Lorem ipsum"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": 7,
+    "name": "Sentado",
+    "subgroups": [
+      {
+        "name": "",
+        "techniques": [
+          {
+            "technique": 1,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 1,
+            "description": "Lorem ipsum"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": 8,
+    "name": "Agarre a ambos brazos",
+    "subgroups": [
+      {
+        "name": "",
+        "techniques": [
+          {
+            "technique": 1,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 1,
+            "description": "Lorem ipsum"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": 9,
+    "name": "Llave contra puño",
+    "subgroups": [
+      {
+        "name": "",
+        "techniques": [
+          {
+            "technique": 1,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 1,
+            "description": "Lorem ipsum"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": 10,
+    "name": "Saludo y conducción",
+    "subgroups": [
+      {
+        "name": "",
+        "techniques": [
+          {
+            "technique": 1,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 1,
+            "description": "Lorem ipsum"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": 11,
+    "name": "Contra agarres de Judo",
+    "subgroups": [
+      {
+        "name": "",
+        "techniques": [
+          {
+            "technique": 1,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 1,
+            "description": "Lorem ipsum"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": 12,
+    "name": "Acostado",
+    "subgroups": [
+      {
+        "name": "",
+        "techniques": [
+          {
+            "technique": 1,
+            "description": "Lorem ipsum"
+          },
+          {
+            "technique": 1,
+            "description": "Lorem ipsum"
+          }
+        ]
+      }
+    ]
+  }
+]
