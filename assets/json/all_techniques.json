@@ -12,8 +12,7 @@
           },
           {
             "technique": 2,
-            "description":
-                  "Saliendo por el lado de la mano agarrada en Ap Kubi, ejecuta Batang Son al esternón."
+            "description": "Saliendo por el lado de la mano agarrada en Ap Kubi, ejecuta Batang Son al esternón."
           },
           {
             "technique": 3,
@@ -513,19 +512,46 @@
   {
     "group": 3,
     "name": "Puño contra puño",
-    "subgroups": [
+    "techniques": [
       {
-        "name": "",
-        "techniques": [
-          {
-            "technique": 1,
-            "description": "Lorem ipsum"
-          },
-          {
-            "technique": 1,
-            "description": "Lorem ipsum"
-          }
-        ]
+        "technique": 1,
+        "description": "Montong bakkat makki y Batang Son al plexo."
+      },
+      {
+        "technique": 2,
+        "description": "Montong bakkat makki y pyon Son al plexo."
+      },
+      {
+        "technique": 3,
+        "description": "Montong bakkat makki y agum Son al cuello."
+      },
+      {
+        "technique": 4,
+        "description": "Montong bakkat makki y golpe con el filo de la mano al cuello."
+      },
+      {
+        "technique": 5,
+        "description": "Montong ant makki y codazo de fuera."
+      },
+      {
+        "technique": 6,
+        "description": "Montong ant makki y codazo desde afuera."
+      },
+      {
+        "technique": 7,
+        "description": "Montong ant makki y golpe con el filo de la mano al cuello."
+      },
+      {
+        "technique": 8,
+        "description": "Giro con bloqueo y 8 (de las básicas)."
+      },
+      {
+        "technique": 9,
+        "description": "Olgoro olgul makki y golpe al plexo con los nudillos."
+      },
+      {
+        "technique": 10,
+        "description": "Esquiva y puño a las costillas."
       }
     ]
   },
