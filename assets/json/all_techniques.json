@@ -695,15 +695,93 @@
     "name": "Contra abrazos",
     "subgroups": [
       {
-        "name": "",
+        "name": "Contra Urracarrana",
         "techniques": [
           {
             "technique": 1,
-            "description": "Lorem ipsum"
+            "description": "bajo con fuerza, chu chum Sogi, y codazo a la cara."
           },
           {
-            "technique": 1,
-            "description": "Lorem ipsum"
+            "technique": 2,
+            "description": "bajo con fuerza, chu chum Sogi, y 16."
+          }
+        ]
+      },
+      {
+        "name": "Urracarrana mano sobre mano",
+        "techniques": [
+          {
+            "technique": 3,
+            "description": "bajo con fuerza, chu chum Sogi, y pion Son a la mano."
+          },
+          {
+            "technique": 4,
+            "description": "bajo con fuerza, chu chum Sogi, y codazo infeior por un lado y superior por el otro."
+          }
+        ]
+      },
+      {
+        "name": "Urracarrana completa",
+        "techniques": [
+          {
+            "technique": 5,
+            "description": "cojo un dedo medio y bajo."
+          },
+          {
+            "technique": 6,
+            "description": "bajo con fuerza, chu chum Sogi, y cojo la cabeza del otro y lo lanzo por el frente."
+          }
+        ]
+      },
+      {
+        "name": "Abrazo bajo: mano muñeca",
+        "techniques": [
+          {
+            "technique": 7,
+            "description": "pion Son a los metacarpos."
+          },
+          {
+            "technique": 8,
+            "description": "torsión y pesion muñeca contra mano."
+          }
+        ]
+      },
+      {
+        "name": "Abrazo bajo: dedos entre lazados",
+        "techniques": [
+          {
+            "technique": 9,
+            "description": "cojo un dedo medio y bajo."
+          },
+          {
+            "technique": 10,
+            "description": "coje la mano por los metacarpos y tuerce hacia adentro, y luego patada."
+          }
+        ]
+      },
+      {
+        "name": "Abrazo de frente",
+        "techniques": [
+          {
+            "technique": 11,
+            "description": "presión en la ingle y dual Batang Son."
+          },
+          {
+            "technique": 12,
+            "description": "Presión en la ingle y cabeza hacia atrás."
+          }
+        ]
+      },
+      {
+        "name": "Abrazo de espalda",
+        "techniques": [
+          {
+            "technique": 13,
+            "description": "presión en la ingle y codazo a la cara."
+          },
+          {
+            "technique": 14,
+            "description": "presión en la ingle y codazo infeior por un lado y superior por el otro."
           }
         ]
       }
