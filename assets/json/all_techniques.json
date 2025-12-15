@@ -1,6 +1,6 @@
 [
   {
-    "grupo": 1,
+    "group": 1,
     "name": "Agarre lineal de muñeca (derecha a izquierda)",
     "subgroups": [
       {
@@ -90,8 +90,8 @@
         ]
       },
       {
-        "nombre": "Agarre de la casaca (boca manga)",
-        "tecnicas": [
+        "name": "Agarre de la casaca (boca manga)",
+        "techniques": [
           {
             "technique": 21,
             "description": "Agarra los metacarpos, torsión hacia adentro y pam chumok a la axila."
@@ -103,8 +103,8 @@
         ]
       },
       {
-        "nombre": "Agarre de la casaca (codo)",
-        "tecnicas": [
+        "name": "Agarre de la casaca (codo)",
+        "techniques": [
           {
             "technique": 23,
             "description": "Sujeta los metacarpos para asegurar la mano, y ejecuta pion Son por dentro y hacia abajo."
@@ -116,8 +116,8 @@
         ]
       },
       {
-        "nombre": "Agarre de la casaca (hombro)",
-        "tecnicas": [
+        "name": "Agarre de la casaca (hombro)",
+        "techniques": [
           {
             "technique": 25,
             "description": "Igual que 21."
@@ -129,8 +129,8 @@
         ]
       },
       {
-        "nombre": "Agarre de la casaca (cuello de la casaca / nuca)",
-        "tecnicas": [
+        "name": "Agarre de la casaca (cuello de la casaca / nuca)",
+        "techniques": [
           {
             "technique": 27,
             "description": "Con las dos manos rodeando el codo ejecuta presión hacia abajo. (partir el codo)"
@@ -142,8 +142,8 @@
         ]
       },
       {
-        "nombre": "Agarre de la casaca (solapas / pecho, pulgar hacia arriba)",
-        "tecnicas": [
+        "name": "Agarre de la casaca (solapas / pecho, pulgar hacia arriba)",
+        "techniques": [
           {
             "technique": 29,
             "description": "Saludo chino."
@@ -155,8 +155,8 @@
         ]
       },
       {
-        "nombre": "Agarre de la casaca (solapas / pecho, subiendo después de agarrar)",
-        "tecnicas": [
+        "name": "Agarre de la casaca (solapas / pecho, subiendo después de agarrar)",
+        "techniques": [
           {
             "technique": 31,
             "description": "Presión en dedo pulgar hacia atrás."
@@ -168,8 +168,8 @@
         ]
       },
       {
-        "nombre": "Agarre de la casaca (solapas / pecho, mano invertida, pulgar hacia abajo)",
-        "tecnicas": [
+        "name": "Agarre de la casaca (solapas / pecho, mano invertida, pulgar hacia abajo)",
+        "techniques": [
           {
             "technique": 33,
             "description": "Cocodrilo."
@@ -181,8 +181,8 @@
         ]
       },
       {
-        "nombre": "Agarre de cinturón (de frente, dedos hacia arriba)",
-        "tecnicas": [
+        "name": "Agarre de cinturón (de frente, dedos hacia arriba)",
+        "techniques": [
           {
             "technique": 35,
             "description": "Pam chumok a los metacarpos."
@@ -194,8 +194,8 @@
         ]
       },
       {
-        "nombre": "Agarre de cinturón (de frente, dedos hacia abajo)",
-        "tecnicas": [
+        "name": "Agarre de cinturón (de frente, dedos hacia abajo)",
+        "techniques": [
           {
             "technique": 37,
             "description": "Presión en dedo pulgar."
@@ -207,8 +207,8 @@
         ]
       },
       {
-        "nombre": "Agarre de cinturón (cadera izquierda o derecha)",
-        "tecnicas": [
+        "name": "Agarre de cinturón (cadera izquierda o derecha)",
+        "techniques": [
           {
             "technique": 39,
             "description": "asegura y ejecuta iop chagui."
@@ -220,8 +220,8 @@
         ]
       },
       {
-        "nombre": "Agarre de casaca (pecho, izquierdo o derecho)",
-        "tecnicas": [
+        "name": "Agarre de casaca (pecho, izquierdo o derecho)",
+        "techniques": [
           {
             "technique": 41,
             "description": "Como 29"
@@ -233,8 +233,8 @@
         ]
       },
       {
-        "nombre": "Agarre de cabeza (cabello / cabeza)",
-        "tecnicas": [
+        "name": "Agarre de cabeza (cabello / cabeza)",
+        "techniques": [
           {
             "technique": 43,
             "description": "Toalla."
@@ -256,7 +256,7 @@
     ]
   },
   {
-    "grupo": 2,
+    "group": 2,
     "name": "Agarre cruzado de muñeca (derecha a derecha)",
     "subgroups": [
       {
@@ -264,247 +264,247 @@
         "techniques": [
           {
             "technique": 1,
-            "description": "Lorem ipsum"
+            "description": "Son Nal a la cara con la mano libre."
           },
           {
             "technique": 2,
-            "description": "Lorem ipsum"
+            "description": "Son Nal al pronador del codo con la mano libre."
           },
           {
             "technique": 3,
-            "description": "Lorem ipsum"
+            "description": "Son Nal Dung a la cara por debajo del brazo agarrado."
           },
           {
             "technique": 4,
-            "description": "Lorem ipsum"
+            "description": "Pal Kup similar a la técnica #4 de agarre lineal de muñeca."
           },
           {
             "technique": 5,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra por fuera y con la mano libre, Chumok Galbi Chigi."
           },
           {
             "technique": 6,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra por fuera y codazo a la cara."
           },
           {
             "technique": 7,
-            "description": "Lorem ipsum"
+            "description": "Presiona el pronador del codo con la mano libre y ejecuta Pal Kup a la cara con la otra mano."
           },
           {
             "technique": 8,
-            "description": "Lorem ipsum"
+            "description": "Presiona el pronador del codo con la mano libre y con la mano libre, agarra la insersión del pectoral."
           },
           {
             "technique": 9,
-            "description": "Lorem ipsum"
+            "description": "Igual a la anterior, pero ejecuta Agum Son Chigi a la garganda."
           },
           {
             "technique": 10,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra por fuera, la mano libre baja la mano agarrada y con esa misma mano (la agarrada) Batang Son a la cara."
           },
           {
             "technique": 11,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra por fuera, Yop Chanoki a la corva (misma pierna de la mano agarrada)"
           },
           {
             "technique": 12,
-            "description": "Lorem ipsum"
+            "description": "Igual que la anterior pero patea la otra pierna en la parte inferor de la rodilla."
           },
           {
             "technique": 13,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra por fuera y el hombro o antebrazo con la mano libre. Pega rodillazo al torso con pierna igual a la mano agarrada."
           },
           {
             "technique": 14,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra por fuera, extiende el brazo del oponente y golpea rodillazo hacia la zona intercostal cerca de la axila."
           },
           {
             "technique": 15,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra por fuera, extiende el brazo del oponente y golpea rodillazo hacia abajo sobre el codo."
           },
           {
             "technique": 16,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra por fuera/dentro el antebrazo. Con la pierna del lado agarrado An Dary Chanoky a la cadera para tumbar al oponente."
           },
           {
             "technique": 17,
-            "description": "Lorem ipsum"
+            "description": "Con la mano libre hace como 16 de básicas a la vez que pega (a la pierna del lado atacante) Yop Chanoki a la cara interna de la rodilla, para evitar la discipación del giro de la muñeca."
           },
           {
             "technique": 18,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra por fuera/debajo el antebrazo. An Dary Chanoky a la parte interior de la rodilla con la pierna de la mano agarrada. Y con la otra pierna Murup Chagi al muslo de la otra pierna."
           },
           {
             "technique": 19,
-            "description": "Lorem ipsum"
+            "description": "Igual a la anterior pero cambia el rodillazo al muslo por Bituro Chagi (a la cara, abdomen o genitales)."
           },
           {
             "technique": 20,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra, con la mano contraria a la mano agarrada, Chokto Doligi a la rodilla del oponente. Cuando este cae arrodillado, Murup Chigi a la cara con la otra pierna."
           }
         ]
       },
       {
-        "nombre": "Agarre de la casaca (boca manga)",
-        "tecnicas": [
+        "name": "Agarre de la casaca (boca manga)",
+        "techniques": [
           {
             "technique": 21,
-            "description": "Lorem ipsum"
+            "description": "Mete la mano libre por debajo y dentro del agarre, para soltar y contra agarrar el bíceps de la mano atacante. La mano atacada agarra la solapa del oponente. La pierna contraria a la de la solapa, se apoya en la pelvis del oponente para saltar y pegar rodillazo al pecho o cara con la otra pierna."
           },
           {
             "technique": 22,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra por dentro, extiende el brazo del oponente y con la mano libre palanquea el codo hacia arriba."
           }
         ]
       },
       {
-        "nombre": "Agarre de la casaca (codo)",
-        "tecnicas": [
+        "name": "Agarre de la casaca (codo)",
+        "techniques": [
           {
             "technique": 23,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra por fuera palanquea el codo con Pal Mok."
           },
           {
             "technique": 24,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra por fuera y palanquea codo con codo (como #17 de las técnicas básicas)"
           }
         ]
       },
       {
-        "nombre": "Agarre de la casaca (hombro)",
-        "tecnicas": [
+        "name": "Agarre de la casaca (hombro)",
+        "techniques": [
           {
             "technique": 25,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra por fuera muñeca y antegraz, hace flexionar el brazo del oponente hacia su pecho y lo baja, con el brazo en el plano horizontal."
           },
           {
             "technique": 26,
-            "description": "Lorem ipsum"
+            "description": "Como #17 de técnicas básicas, con la muñeca horizontal (codo del oponente mirando arriba)."
           }
         ]
       },
       {
-        "nombre": "Agarre de la casaca (cuello de la casaca / nuca)",
-        "tecnicas": [
+        "name": "Agarre de la casaca (cuello de la casaca / nuca)",
+        "techniques": [
           {
             "technique": 27,
-            "description": "Lorem ipsum"
+            "description": "Como #17 de técnicas básicas inversa (codo del oponente mirando abajo) mano en 'U' (Salida del #16 de técnicas básicas, en vertical)."
           },
           {
             "technique": 28,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra por fuera con ambas manos para soltar y hacer como 7 de llave contra puño. (con la mano libre como #16 de técnicas básicas y al soltarse, la mano agarrada ayuda a hacer como 7 de llave contra puño)."
           }
         ]
       },
       {
-        "nombre": "Agarre de la casaca (solapas / pecho, pulgar hacia arriba)",
-        "tecnicas": [
+        "name": "Agarre de la casaca (solapas / pecho, pulgar hacia arriba)",
+        "techniques": [
           {
             "technique": 29,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra por dentro. Mete la mano libre para agarrar la garganta del oponente, palanquear el codo y la muñeca (dedos hacia el codo)."
           },
           {
             "technique": 30,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra por fuera la muñeca del oponente con ambas manos, palanquea hacia el lado y abajo (segal) (la mano libre se apoya sobre el dorso del atacante y ambas manos con dedos apuntando en igual dirección)."
           }
         ]
       },
       {
-        "nombre": "Agarre de la casaca (solapas / pecho, subiendo después de agarrar)",
-        "tecnicas": [
+        "name": "Agarre de la casaca (solapas / pecho, subiendo después de agarrar)",
+        "techniques": [
           {
             "technique": 31,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra por fuera, se desplaza hacia la espalda del adversario a la vez que patea la corva con el mismo pie de la mano agarrada. Al hacerlo arrodillar lo ahorca con su propia mano, agarra la mano libre y sin dejar de pisarle la corva lo hace girar el tronco en el sentido del estangulamiento."
           },
           {
             "technique": 32,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra por fuera, la mano libre agarra por la solapa por encima del brazo del oponente para estrangular (pulgar abajo), con la misma pierna de la mano agarrada Yop Chanoki a la corva, mientras el oponente cae se golpea codazo al pecho o cara con la mano agarrada."
           }
         ]
       },
       {
-        "nombre": "Agarre de la casaca (solapas / pecho, mano invertida, pulgar hacia abajo)",
-        "tecnicas": [
+        "name": "Agarre de la casaca (solapas / pecho, mano invertida, pulgar hacia abajo)",
+        "techniques": [
           {
             "technique": 33,
-            "description": "Lorem ipsum"
+            "description": "16 de técnicas básicas corta, con palanca de apoyo no con la mano sino con el antebrazo."
           },
           {
             "technique": 34,
-            "description": "Lorem ipsum"
+            "description": "Palanquea codo, levanta al adversario, flexiona el codo y con su propia muñeca le golpea la cara."
           }
         ]
       },
       {
-        "nombre": "Agarre de cinturón (de frente, dedos hacia arriba)",
-        "tecnicas": [
+        "name": "Agarre de cinturón (de frente, dedos hacia arriba)",
+        "techniques": [
           {
             "technique": 35,
-            "description": "Lorem ipsum"
+            "description": "Palanquea codo, levanta al adversario y hace torsión parecido a #7 de llave contra puño."
           },
           {
             "technique": 36,
-            "description": "Lorem ipsum"
+            "description": "Palanquea codo hacia abajo y arrastra (acuersta boca abajo)."
           }
         ]
       },
       {
-        "nombre": "Agarre de cinturón (de frente, dedos hacia abajo)",
-        "tecnicas": [
+        "name": "Agarre de cinturón (de frente, dedos hacia abajo)",
+        "techniques": [
           {
             "technique": 37,
-            "description": "Lorem ipsum"
+            "description": "Golpea lateralmente sobre el codo (como Montong An Maki), mete el brazo del codazo para cuñar el codo, la otra mano flexiona la muñeca (dedos hacia el codo). Palma hacia el bíceps."
           },
           {
             "technique": 38,
-            "description": "Lorem ipsum"
+            "description": "La mano libre agarra y #16 de técnicas básicas."
           }
         ]
       },
       {
-        "nombre": "Agarre de cinturón (cadera izquierda o derecha)",
-        "tecnicas": [
+        "name": "Agarre de cinturón (cadera izquierda o derecha)",
+        "techniques": [
           {
             "technique": 39,
-            "description": "Lorem ipsum"
+            "description": "La mano libre agarra y #18 de técnicas básicas."
           },
           {
             "technique": 40,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra por fuera y lanza como #9 de técnicas básicas."
           }
         ]
       },
       {
-        "nombre": "Agarre de casaca (pecho, izquierdo o derecho)",
-        "tecnicas": [
+        "name": "Agarre de casaca (pecho, izquierdo o derecho)",
+        "techniques": [
           {
             "technique": 41,
-            "description": "Lorem ipsum"
+            "description": "#16 de técnicas básicas. Con movimiento parecido a #36 de este grupo."
           },
           {
             "technique": 42,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra por fuera. Con la mano libre y por fuera presiona el pronador del codo para pegar codazo (como #7 de esta secuencia). Mete la mano libre por debajo, agarra nuca y lanza."
           }
         ]
       },
       {
-        "nombre": "Agarre de cabeza (cabello / cabeza)",
-        "tecnicas": [
+        "name": "Agarre de cabeza (cabello / cabeza)",
+        "techniques": [
           {
             "technique": 43,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra con ambas manos la mano agarrada, patea genitales y lanza de cadera. (por fuera, espalda con pecho); palanqueando el codo del brazo atacante."
           },
           {
             "technique": 44,
-            "description": "Lorem ipsum"
+            "description": "Dung Chumok y por debajo con la mano libre y lanzo por los hombros (como la de #19 de contra agarres de Judo)."
           },
           {
             "technique": 45,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra por dentro, la mano libre flexiona el codo del oponente (pulgar por dentro). Gira y lanza como palanqueando el codo (como #7 de llave contra puño)."
           },
           {
             "technique": 46,
-            "description": "Lorem ipsum"
+            "description": "Contra agarra con ambas manos. Se gira hacia dadentro vuelta completa y se lanza al oponente con la mano libre."
           }
         ]
       }
