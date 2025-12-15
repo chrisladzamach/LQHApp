@@ -560,15 +560,80 @@
     "name": "Contra agarres por la espalda",
     "subgroups": [
       {
-        "name": "",
+        "name": "Contra agarre de la nuca (una mano)",
         "techniques": [
           {
             "technique": 1,
-            "description": "Lorem ipsum"
+            "description": "Chu chum Sogi y golpe con una mano al torso y luego golpe con la otra a la cara."
           },
           {
-            "technique": 1,
-            "description": "Lorem ipsum"
+            "technique": 2,
+            "description": "Tango."
+          }
+        ]
+      },
+      {
+        "name": "Contra agarre ambos hombros",
+        "techniques": [
+          {
+            "technique": 3,
+            "description": "16 de básicas."
+          },
+          {
+            "technique": 4,
+            "description": "medio 16 y golpe a la mandibula."
+          }
+        ]
+      },
+      {
+        "name": "Contra agarre de los codos (ambas manos)",
+        "techniques": [
+          {
+            "technique": 5,
+            "description": "chu chum Sogi y empujon con el codo."
+          },
+          {
+            "technique": 6,
+            "description": "llave de codo por detrás (lanzamiento)."
+          }
+        ]
+      },
+      {
+        "name": "Contra agarre de las mangas (ambas manos)",
+        "techniques": [
+          {
+            "technique": 7,
+            "description": "arriba y torsión, lanzamiento como #9 de básicas."
+          },
+          {
+            "technique": 8,
+            "description": "arriba y torsión, lanzamiento como #9 de básicas con barrido por entre las piernas por el frente."
+          }
+        ]
+      },
+      {
+        "name": "Contra agarre de las muñecas (ambas manos)",
+        "techniques": [
+          {
+            "technique": 9,
+            "description": "contra agarre de muñecas y dwit chagi"
+          },
+          {
+            "technique": 10,
+            "description": "giro por la espalda y 18."
+          }
+        ]
+      },
+      {
+        "name": "Contra agarre del cinturón por detrás (una mano)",
+        "techniques": [
+          {
+            "technique": 11,
+            "description": "montong nulo Batangt makki y Batang Son a las costillas."
+          },
+          {
+            "technique": 12,
+            "description": "codazo a la cara."
           }
         ]
       }
