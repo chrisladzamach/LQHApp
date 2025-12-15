@@ -648,11 +648,43 @@
         "techniques": [
           {
             "technique": 1,
-            "description": "Lorem ipsum"
+            "description": "Antari."
           },
           {
-            "technique": 1,
-            "description": "Lorem ipsum"
+            "technique": 2,
+            "description": "Bakkatari."
+          },
+          {
+            "technique": 3,
+            "description": "Ap chuk ap chagui."
+          },
+          {
+            "technique": 4,
+            "description": "Yop chagi."
+          },
+          {
+            "technique": 5,
+            "description": "Antari chanoki (a la rodilla)."
+          },
+          {
+            "technique": 6,
+            "description": "Sujeta el brazo y la nuca del oponente y ejecuta mureup chigi al abdomen."
+          },
+          {
+            "technique": 7,
+            "description": "Agarra la muñeca y Dolio."
+          },
+          {
+            "technique": 8,
+            "description": "Agarra la muñeca y Tuit Dolio desde fuera."
+          },
+          {
+            "technique": 9,
+            "description": "Tora yop."
+          },
+          {
+            "technique": 10,
+            "description": "Huryeo."
           }
         ]
       }
