@@ -19,8 +19,19 @@ class GradeMenuButton extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return InkWell(
-      onTap: () =>
-          Navigator.push(context, MaterialPageRoute(builder: (_) => screen)),
+      onTap: () {
+        Navigator.push(
+          context,
+          PageRouteBuilder(
+            transitionDuration: const Duration(milliseconds: 200),
+            pageBuilder: (_, _, _) => screen,
+            transitionsBuilder: (_, animation, _, child) {
+              return FadeTransition(opacity: animation, child: child);
+            },
+          ),
+        );
+      },
+
       child: Container(
         decoration: BoxDecoration(
           border: Border.all(color: Colors.blueGrey),
