@@ -69,9 +69,9 @@ class SelfDefenseTechniques extends StatelessWidget {
                     context,
                     PageRouteBuilder(
                       transitionDuration: const Duration(milliseconds: 200),
-                      pageBuilder: (_, __, ___) =>
+                      pageBuilder: (_, _, _) =>
                           TechniqueGroupView(group: group),
-                      transitionsBuilder: (_, animation, __, child) {
+                      transitionsBuilder: (_, animation, _, child) {
                         return FadeTransition(opacity: animation, child: child);
                       },
                     ),
