@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:lqh_app/models/technique_models.dart';
+import 'package:lqh_app/models/techniques/technique_models.dart';
 import 'package:lqh_app/services/techniques_service.dart';
 import 'package:lqh_app/screens/views/technique_group_view.dart';
 

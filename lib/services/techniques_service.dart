@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/services.dart';
 
-import '../models/technique_group.dart';
+import '../models/techniques/technique_group.dart';
 
 class TechniquesService {
   static Future<List<TechniqueGroup>> loadGroups() async {
