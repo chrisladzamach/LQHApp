@@ -1217,15 +1217,68 @@
     "name": "Acostado",
     "subgroups": [
       {
-        "name": "",
+        "name": "A una sola mano",
         "techniques": [
           {
             "technique": 1,
-            "description": "Lorem ipsum"
+            "description": "Agarra mano igual (izquierda izquierda) y saludo chino."
           },
           {
-            "technique": 1,
-            "description": "Lorem ipsum"
+            "technique": 2,
+            "description": "Saludo Chino y la mano libre, palanquea el codo con la palma, para hacer caer al oponente al costado. Remata haciéndole mariposa al oponente, empujándolo con la pierna libre. Mas #17 de técnicas básicas."
+          },
+          {
+            "technique": 3,
+            "description": "Toalla."
+          },
+          {
+            "technique": 4,
+            "description": "Como 16 de técnicas básicas, terminando con la mano en 'U' mas flexión por encima del codo con la mano libre."
+          },
+          {
+            "technique": 5,
+            "description": "Como 16 de técnicas básicas mas flexión del codo con la mano libre por debajo (parecida a #7 de llave contra puño)"
+          },
+          {
+            "technique": 6,
+            "description": "Meto la mano y agarro manga. Con la otra mano, Opok Pyon Son Kup a la garganta."
+          },
+          {
+            "technique": 7,
+            "description": "Meto la mano y agarro manga. Con la otra mano, Opok Pyon Son Kup a la garganta."
+          }
+        ]
+      },
+      {
+        "name": "A dos manos",
+        "techniques": [
+          {
+            "technique": 8,
+            "description": "Cruza manos, agarra codos iguales (izquierda izquierda) gira los brazos como para romper los codos, levanta la cadera para hacer caer al oponente al costad."
+          },
+          {
+            "technique": 9,
+            "description": "Agarra la casaca, con los codos hace presión hacia fuera y golpea cabeza con cara."
+          },
+          {
+            "technique": 10,
+            "description": "Abraza las manos del oponente contra su cuerpo y las junta sin dejar que se suelte, levanta fuertemente la cadera haciéndolo ir de cara."
+          },
+          {
+            "technique": 11,
+            "description": "Gira ambas manos haciendo #16 de técnicas básicas, hace ir al oponente hacia atrás, a la vez que pone sus piernas sobre los hombros del adversario provocando un fuerte golpe en la cabeza y lastimando la columna. Remata con Tikumchi Nop Chok Dary Chagi."
+          },
+          {
+            "technique": 12,
+            "description": "Gira las manos contrario a #16 de técnicas básicas y empija con la cadera para hacerlo golpear la cara en el suelo (cabalgata)"
+          },
+          {
+            "technique": 13,
+            "description": "Metiendo un brazo por dentro, envuelve el brazo contrario del oponente hacia afuera. La mano libre extiende la mano libre del oponente para evitar, que al caer, se apoye en ella."
+          },
+          {
+            "technique": 14,
+            "description": "Lleva los brazos de adentro hacia afuera (como Montong Hecho Makki) para abrirlos. Con una mano agarra el hombro y con la otra gira la cabeza para lastimar el cuello y hacer caer al oponente al costado. Remata con rodillazo a los genitales."
           }
         ]
       }
