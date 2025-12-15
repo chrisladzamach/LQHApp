@@ -792,15 +792,93 @@
     "name": "Sentado",
     "subgroups": [
       {
-        "name": "",
+        "name": "Contra agarre de muñeca",
         "techniques": [
           {
             "technique": 1,
-            "description": "Lorem ipsum"
+            "description": "Como 16 de básicas."
           },
           {
-            "technique": 1,
-            "description": "Lorem ipsum"
+            "technique": 2,
+            "description": "Como 17 de básicas."
+          }
+        ]
+      },
+      {
+        "name": "Contra agarre de muñeca y hala",
+        "techniques": [
+          {
+            "technique": 3,
+            "description": "Como 9 de básicas."
+          },
+          {
+            "technique": 4,
+            "description": "Como 18 de básica."
+          }
+        ]
+      },
+      {
+        "name": "Contra agarre Cabello/Cabeza",
+        "techniques": [
+          {
+            "technique": 5,
+            "description": "Toalla."
+          }
+        ]
+      },
+      {
+        "name": "Contra agarre de la Nuca",
+        "techniques": [
+          {
+            "technique": 6,
+            "description": "Sacrificio."
+          },
+          {
+            "technique": 7,
+            "description": "Como 27 de básicas."
+          }
+        ]
+      },
+      {
+        "name": "Contra agarre del Pecho/Casaca",
+        "techniques": [
+          {
+            "technique": 8,
+            "description": "Como 29 de básicas."
+          }
+        ]
+      },
+      {
+        "name": "De pie de frente",
+        "techniques": [
+          {
+            "technique": 9,
+            "description": "Coge la rodilla por dentro y pyon-Son Kup a la ingle."
+          },
+          {
+            "technique": 10,
+            "description": "Dual Pyon-Son Gi a los metatarsos."
+          },
+          {
+            "technique": 11,
+            "description": "Engancho por dentro un pie, y con el otro ejecuto Yop Chanoki."
+          },
+          {
+            "technique": 12,
+            "description": "Engancha con los pies por dentro hacia fuera, empujo con las dos canillas."
+          }
+        ]
+      },
+      {
+        "name": "De pie de lado",
+        "techniques": [
+          {
+            "technique": 13,
+            "description": "agarro por dentro(invertido) y ejecuta An Palkup a la corba de la rodilla."
+          },
+          {
+            "technique": 14,
+            "description": "trenza con los dos pies."
           }
         ]
       }
