@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:lqh_app/models/techniques/technique_models.dart';
 import 'package:lqh_app/services/techniques_service.dart';
 import 'package:lqh_app/screens/views/technique_group_view.dart';
+import 'package:lqh_app/widgets/card_sub_menu.dart';
 
 class SelfDefenseTechniques extends StatelessWidget {
   const SelfDefenseTechniques({super.key});
@@ -61,12 +62,12 @@ class SelfDefenseTechniques extends StatelessWidget {
             itemBuilder: (context, index) {
               final group = groups[index];
 
-              return GestureDetector(
+              return CardSubMenu(
+                title: group.name,
                 onTap: () {
                   Navigator.push(
                     context,
                     PageRouteBuilder(
-                      opaque: true,
                       transitionDuration: const Duration(milliseconds: 200),
                       pageBuilder: (_, __, ___) =>
                           TechniqueGroupView(group: group),
@@ -76,28 +77,6 @@ class SelfDefenseTechniques extends StatelessWidget {
                     ),
                   );
                 },
-                child: Card(
-                  color: const Color(0xFF171F2A),
-                  shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(12),
-                    side: const BorderSide(color: Colors.blueGrey, width: 1),
-                  ),
-                  elevation: 3,
-                  child: Center(
-                    child: Padding(
-                      padding: const EdgeInsets.all(6),
-                      child: Text(
-                        group.name,
-                        textAlign: TextAlign.center,
-                        style: const TextStyle(
-                          fontSize: 16,
-                          fontWeight: FontWeight.bold,
-                          color: Colors.white70,
-                        ),
-                      ),
-                    ),
-                  ),
-                ),
               );
             },
           );
