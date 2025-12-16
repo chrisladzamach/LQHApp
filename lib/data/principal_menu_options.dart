@@ -1,8 +1,9 @@
+// import 'package:lqh_app/models/mugi_hyeong/mugi_hyeong_models.dart';
 import 'package:lqh_app/models/principal_menu_option.dart';
+import 'package:lqh_app/screens/views/armed/hyeong/mugi_hyeong.dart';
 import 'package:lqh_app/screens/views/unarmed/hyeong/hyeong.dart';
 import 'package:lqh_app/screens/views/program.dart';
 import 'package:lqh_app/screens/views/techniques/self_defense_techniques.dart';
-import 'package:lqh_app/screens/views/armed/figures.dart';
 import 'package:lqh_app/screens/views/unarmed/basic_movements.dart';
 import 'package:lqh_app/screens/views/armed/basic_movements.dart';
 
@@ -33,7 +34,7 @@ final List<PrincipalMenuOption> principalMenuOption = [
     romanized: "Mugi Hyeong",
     spanish: "(Figuras con armas)",
     hangul: "무기 형",
-    screen: FiguresWithWeapons(),
+    screen: MugiHyeong(),
   ),
   PrincipalMenuOption(
     icon: "👊🏽",
