@@ -1,0 +1,385 @@
+[
+  {
+    "type": "Nunchaku sencillo",
+    "techniques": [
+      {
+        "technique": 1,
+        "description": "Medio círculo hacia al frente y hacia arriba y cambio de mano."
+      },
+      {
+        "technique": 2,
+        "description": "Vuelta por dentro y cambio de mano."
+      },
+      {
+        "technique": 3,
+        "description": "Vuelta por dentro, por fuera y cambio de mano."
+      },
+      {
+        "technique": 4,
+        "description": "Cambios por debajo del hombro y hacia arriba."
+      },
+      {
+        "technique": 5,
+        "description": "Golpe abajo al lado contrario, al otro lado, sube y cambia de mano."
+      },
+      {
+        "technique": 6,
+        "description": "3 giros hacia el frente bajando y 3 giros hacia atrás subiendo y cambia de mano."
+      },
+      {
+        "technique": 7,
+        "description": "Igual que 4+3 sube y cambia de mano."
+      },
+      {
+        "technique": 8,
+        "description": "Igual que 5 reemplazando el último golpe con un giro por fuera hacia atrás y cambia de mano."
+      },
+      {
+        "technique": 9,
+        "description": "Inicia como 5 y envía el Nunchaku por entre las piernas, sube como 1 y cambia de mano."
+      },
+      {
+        "technique": 10,
+        "description": "Golpes hacia adentro y a la cabeza cambiando de mano a lado y lado."
+      },
+      {
+        "technique": 11,
+        "description": "Desde la axila giro al frente y por dentro."
+      },
+      {
+        "technique": 12,
+        "description": "Igual que 11 cambiando de mano iniciando con mano cruzada."
+      },
+      {
+        "technique": 13,
+        "description": "Igual que 11 pero el giro por fuera."
+      },
+      {
+        "technique": 14,
+        "description": "Igual que 13 cambiando de mano iniciando con mano cruzada."
+      },
+      {
+        "technique": 15,
+        "description": "Igual que 11 pero el giro por dentro y por fuera."
+      },
+      {
+        "technique": 16,
+        "description": "Igual que 15 cambiando de mano iniciando con mano cruzada."
+      },
+      {
+        "technique": 17,
+        "description": "Igual que 15 pero un lado."
+      },
+      {
+        "technique": 18,
+        "description": "Igual que 17 cambiando de mano iniciando con mano cruzada."
+      },
+      {
+        "technique": 19,
+        "description": "Igual que 18 pero cambia de lado pasando el Nunchaku por el cuello y desenvuelve terminando el 18."
+      },
+      {
+        "technique": 20,
+        "description": "Igual que 4 invertido."
+      },
+      {
+        "technique": 21,
+        "description": "Igual que 15 devuelve con el filo de la otra mano."
+      },
+      {
+        "technique": 22,
+        "description": "Igual que 17 a un lado, sigue el giro, pasa por detrás terminado con 3 a un lado."
+      },
+      {
+        "technique": 23,
+        "description": "Igual que 4 por detrás."
+      },
+      {
+        "technique": 24,
+        "description": "Vuelta por encima y 5."
+      },
+      {
+        "technique": 25,
+        "description": "Igual 24 cambiando el último golpe por un giro horizontal hacia afuera seguido de un giro vertical hacia el frente (para abajo)."
+      },
+      {
+        "technique": 26,
+        "description": "Pasa el Nunchaku por la muñeca hacia atrás varias veces."
+      },
+      {
+        "technique": 27,
+        "description": "Giro por dentro, giro por fuera pasando por la mano por fuera y luego por dentro varias veces."
+      },
+      {
+        "technique": 28,
+        "description": "Igual que 24, pasa el Nunchaku por debajo como 26 y sube con 27 y 3."
+      },
+      {
+        "technique": 29,
+        "description": "Igual que 28 pero con doble 27."
+      },
+      {
+        "technique": 30,
+        "description": "Equis por lado y lado pasando por encima de la mano igual que 26."
+      },
+      {
+        "technique": 31,
+        "description": "Igual que 26 abajo con un giro posterior."
+      },
+      {
+        "technique": 32,
+        "description": "Igual que 31 pero pasando de mano."
+      },
+      {
+        "technique": 33,
+        "description": "Igual que 31 pero en el medio."
+      },
+      {
+        "technique": 34,
+        "description": "Igual que 19 pero con cambios como 31."
+      },
+      {
+        "technique": 35,
+        "description": "Igual que 27 pero frenando el último giro quedando vertical, devuelve y vuelve a empezar."
+      },
+      {
+        "technique": 36,
+        "description": "Igual que 27 pero devuelve con la mano contraria como 21 y sube con 27 cambia de mano y vuelve a empezar."
+      },
+      {
+        "technique": 37,
+        "description": "1ra parte del primer callejón de I Chol Bong I Dan, solo el 24 terminando al otro lado."
+      },
+      {
+        "technique": 38,
+        "description": "2da parte del primer callejón de I Chol Bong I Dan."
+      },
+      {
+        "technique": 39,
+        "description": "3ra parte del primer callejón de I Chol Bong I Dan como el anterior pero pasando por detrás para iniciar por el otro lado."
+      },
+      {
+        "technique": 40,
+        "description": "Are Bakkat Makki con el Nunchaku sube y cambia de lado, ejecuta 5 a la vez que hace un giro por el frente para quedar en el otro lado y vuelve a empezar."
+      }
+    ]
+  },
+  {
+    "type": "Nunchakus dobles",
+    "techniques": [
+      {
+        "technique": 1,
+        "description": "1 sim"
+      },
+      {
+        "technique": 2,
+        "description": "2 sim"
+      },
+      {
+        "technique": 3,
+        "description": "3 sim"
+      },
+      {
+        "technique": 4,
+        "description": "4 Hombro, axila (sim)"
+      },
+      {
+        "technique": 5,
+        "description": "4 trocada"
+      },
+      {
+        "technique": 6,
+        "description": "6 sim"
+      },
+      {
+        "technique": 7,
+        "description": "7 desde abajo"
+      },
+      {
+        "technique": 8,
+        "description": "7, 15 desde axilas (sim)"
+      },
+      {
+        "technique": 9,
+        "description": "7, 15, 13 (sim)"
+      },
+      {
+        "technique": 10,
+        "description": "11 (sim)"
+      },
+      {
+        "technique": 11,
+        "description": "13 (sim)"
+      },
+      {
+        "technique": 12,
+        "description": "15 (sim)"
+      },
+      {
+        "technique": 13,
+        "description": "17 (sim)"
+      },
+      {
+        "technique": 14,
+        "description": "5 (alt)"
+      },
+      {
+        "technique": 15,
+        "description": "8 (alt)"
+      },
+      {
+        "technique": 16,
+        "description": "9 (alt) vuelta adentro afuera y arriba"
+      },
+      {
+        "technique": 17,
+        "description": "Medio 24 (alt)"
+      },
+      {
+        "technique": 18,
+        "description": "25 (alt)"
+      },
+      {
+        "technique": 19,
+        "description": "10 (alt)"
+      },
+      {
+        "technique": 20,
+        "description": "5 (sim)"
+      },
+      {
+        "technique": 21,
+        "description": "8 (sim)"
+      },
+      {
+        "technique": 22,
+        "description": "9 (sim)"
+      },
+      {
+        "technique": 23,
+        "description": "10 (sim)"
+      },
+      {
+        "technique": 24,
+        "description": "24 (sim)"
+      },
+      {
+        "technique": 25,
+        "description": "25 (sim)"
+      },
+      {
+        "technique": 26,
+        "description": "X adelante (sim)"
+      },
+      {
+        "technique": 27,
+        "description": "X atrás (sim)"
+      },
+      {
+        "technique": 28,
+        "description": "26 (sim)"
+      },
+      {
+        "technique": 29,
+        "description": "27 (sim)"
+      },
+      {
+        "technique": 30,
+        "description": "Disociado (17/15)"
+      }
+    ]
+  },
+  {
+    "type": "Jang Bong",
+    "techniques": [
+      {
+        "technique": 1,
+        "description": "Recoge desde el piso con el pie"
+      },
+      {
+        "technique": 2,
+        "description": "Descarga con el pie"
+      },
+      {
+        "technique": 3,
+        "description": "Desliza entre las manos a lado y lado"
+      },
+      {
+        "technique": 4,
+        "description": "Lanza un extremo y coge el otro (una mano) ±"
+      },
+      {
+        "technique": 5,
+        "description": "4 pero cambiando de mano ±"
+      },
+      {
+        "technique": 6,
+        "description": "Remo ±"
+      },
+      {
+        "technique": 7,
+        "description": "Igual que 6 caminando de frente y de espaldas ±"
+      },
+      {
+        "technique": 8,
+        "description": "Igual que 6 girando ±"
+      },
+      {
+        "technique": 9,
+        "description": "Ventilador ±"
+      },
+      {
+        "technique": 10,
+        "description": "Remo con una mano ±"
+      },
+      {
+        "technique": 11,
+        "description": "10 cambiando de mano con 9 ±"
+      },
+      {
+        "technique": 12,
+        "description": "Helicóptero ±"
+      },
+      {
+        "technique": 13,
+        "description": "Igual que 12 y pasa girándolo por la espalda ±"
+      },
+      {
+        "technique": 14,
+        "description": "Igual que 13 pero arrodillándose y levantándose ±"
+      },
+      {
+        "technique": 15,
+        "description": "Igual que 13 pero solo arrodillado ±"
+      },
+      {
+        "technique": 16,
+        "description": "Giros adentro y afuera sostenido de la punta ±"
+      },
+      {
+        "technique": 17,
+        "description": "Igual que 16 pero con las dos manos ±"
+      },
+      {
+        "technique": 18,
+        "description": "Giros igual que 16 pero terminando golpeando el piso."
+      },
+      {
+        "technique": 19,
+        "description": "Envaina y desenvaine"
+      },
+      {
+        "technique": 20,
+        "description": "Lanza por el cuello igual que 19 de Nunchacos, y recibe al otro lado"
+      },
+      {
+        "technique": 21,
+        "description": "Punzón como lanza alta"
+      },
+      {
+        "technique": 22,
+        "description": "Giro por la espalda y punzón de lanza"
+      }
+    ]
+  }
+]
