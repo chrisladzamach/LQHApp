@@ -1,10 +1,10 @@
-class Step {
+class Steps {
   final int step;
   final String description;
 
-  Step({required this.step, required this.description});
+  Steps({required this.step, required this.description});
 
-  factory Step.fromJson(Map<String, dynamic> json) {
-    return Step(step: json['step'], description: json['description']);
+  factory Steps.fromJson(Map<String, dynamic> json) {
+    return Steps(step: json['step'], description: json['description']);
   }
 }

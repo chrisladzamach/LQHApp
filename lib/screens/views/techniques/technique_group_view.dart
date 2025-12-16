@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../models/techniques/technique_models.dart';
+import '../../../models/techniques/technique_models.dart';
 
 class TechniqueGroupView extends StatelessWidget {
   final TechniqueGroup group;

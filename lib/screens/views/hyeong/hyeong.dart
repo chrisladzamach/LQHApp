@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:lqh_app/models/techniques/technique_models.dart';
-import 'package:lqh_app/services/techniques_service.dart';
-import 'package:lqh_app/screens/views/technique_group_view.dart';
+import 'package:lqh_app/models/hyeong/hyeong_models.dart';
+import 'package:lqh_app/services/hyeong_service.dart';
+import 'package:lqh_app/screens/views/hyeong/hyeong_branch_view.dart';
 import 'package:lqh_app/widgets/card_sub_menu.dart';
 
-class SelfDefenseTechniques extends StatelessWidget {
-  const SelfDefenseTechniques({super.key});
+class Hyeong extends StatelessWidget {
+  const Hyeong({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -15,12 +15,12 @@ class SelfDefenseTechniques extends StatelessWidget {
         iconTheme: const IconThemeData(color: Colors.yellow, weight: 300),
         backgroundColor: Colors.black,
         title: const Text(
-          'Técnicas (Ho Sin Sul)',
+          'Figuras (Hyeong)',
           style: TextStyle(color: Colors.yellow),
         ),
       ),
-      body: FutureBuilder<List<TechniqueGroup>>(
-        future: TechniquesService.loadGroups(),
+      body: FutureBuilder<List<HyeongBranch>>(
+        future: HyeongService.loadGroups(),
         builder: (context, snapshot) {
           if (snapshot.connectionState == ConnectionState.waiting) {
             return const Center(child: CircularProgressIndicator());
@@ -39,12 +39,12 @@ class SelfDefenseTechniques extends StatelessWidget {
             );
           }
 
-          final groups = snapshot.data;
+          final branches = snapshot.data;
 
-          if (groups == null || groups.isEmpty) {
+          if (branches == null || branches.isEmpty) {
             return const Center(
               child: Text(
-                'No hay técnicas disponibles',
+                'No hay Figuras disponibles',
                 style: TextStyle(color: Colors.white54),
               ),
             );
@@ -58,19 +58,19 @@ class SelfDefenseTechniques extends StatelessWidget {
               crossAxisSpacing: 12,
               childAspectRatio: 1.2,
             ),
-            itemCount: groups.length,
+            itemCount: branches.length,
             itemBuilder: (context, index) {
-              final group = groups[index];
+              final figure = branches[index];
 
               return CardSubMenu(
-                title: group.name,
+                title: figure.branch,
                 onTap: () {
                   Navigator.push(
                     context,
                     PageRouteBuilder(
                       transitionDuration: const Duration(milliseconds: 200),
                       pageBuilder: (_, _, _) =>
-                          TechniqueGroupView(group: group),
+                          HyeongBranchView(hyeongBranch: figure),
                       transitionsBuilder: (_, animation, _, child) {
                         return FadeTransition(opacity: animation, child: child);
                       },
