@@ -1,8 +1,0 @@
-{
-  "movimientos_basicos": "movimientos_basicos.json",
-  "secuencias_sin_armas": "secuencias_sin_armas.json",
-  "secuencias_con_armas": "secuencias_con_armas.json",
-  "figuras_sin_armas": "figuras_sin_armas.json",
-  "figuras_con_armas": "figuras_con_armas.json",
-  "teoria": "teoria.json"
-}
