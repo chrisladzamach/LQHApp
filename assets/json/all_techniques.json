@@ -1685,5 +1685,86 @@
         ]
       }
     ]
+  },
+  {
+    "group": 15,
+    "name": "Defensa con palo corto",
+    "subgroups": [
+      {
+        "name": "Agarre de muñeca mano contraria (la mano con el tang bong)",
+        "techniques": [
+          {
+            "technique": 1,
+            "description": "Talla con el palo por encima subiéndolo por fuera y hala."
+          },
+          {
+            "technique": 2,
+            "description": "Talla con el palo por encima subiéndolo por fuera y empuja."
+          },
+          {
+            "technique": 3,
+            "description": "Talla con el palo por encima subiéndolo por fuera y hala a la diagonal interior o exterior."
+          },
+          {
+            "technique": 4,
+            "description": "Talla con el palo por encima subiéndolo por fuera y media #9 de básicas. Lanza."
+          },
+          {
+            "technique": 5,
+            "description": "Talla con el palo por encima subiéndolo por fuera y #18 de básicas. Lanza.."
+          }
+        ]
+      },
+      {
+        "name": "Agarre de muñeca mano igual (la mano con el Tang Bong)",
+        "techniques": [
+          {
+            "technique": 6,
+            "description": "Talla con el palo por encima subiéndolo por dentro y hala."
+          },
+          {
+            "technique": 7,
+            "description": "Talla con el palo por encima subiéndolo por dentro y empuja."
+          },
+          {
+            "technique": 8,
+            "description": "Cruza el Tang Bong como Okkoru y hala."
+          },
+          {
+            "technique": 9,
+            "description": "Cruza el Tang Bong como Okkoru y #9 de básicas."
+          },
+          {
+            "technique": 10,
+            "description": "La mano libre hace como #16 de básicas. Entierra el mango en la garganta, para tumbar y rematar en el suelo."
+          }
+        ]
+      },
+      {
+        "name": "Defensa contra puño.",
+        "techniques": [
+          {
+            "technique": 11,
+            "description": "La mano libre bloquea por dentro y lanza de cabeza con el mango del Tang Bong."
+          },
+          {
+            "technique": 12,
+            "description": "Batang makki por fuera, deja pasar el golpe y apoya el codo del oponente sobre el pecho (para sostenerlo ahí), entierra el mango en la garganta, mientras la mano que bloqueó sostiene la nuca."
+          },
+          {
+            "technique": 13,
+            "description": "La mano libre bloquea por dentro, mete el Tang Bong por fuera sobre el codo, lo dobla para hacer la misma palanca de #7 de llave contra puño."
+          },
+          {
+            "technique": 14,
+            "description": "La mano libre hace sonnal deung montong makki por fuera. Pasa el Tang Bong, agarra el palo con ambas manos para tallar la muñeca y hacer caer al oponente. (parecido a Okkoru Makki)"
+          },
+          {
+            "technique": 15,
+            "description": "La mano libre bloquea por dentro, por fuera mete el Tang Bong y lo pone sobre la garganta flexiona el codo y tumba."
+          }
+        ]
+      }
+    ]
   }
 ]
