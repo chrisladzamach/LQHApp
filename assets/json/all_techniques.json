@@ -1245,7 +1245,7 @@
           },
           {
             "technique": 7,
-            "description": "Meto la mano y agarro manga. Con la otra mano, Opok Pyon Son Kup a la garganta."
+            "description": "Agarra la mano contraria palma con palma (izquierda derecha), gira la mano agarrada hacia afuera y la mano que queda libre la pasa por encima del codo del oponente haciendo presión y llevándolo hacia adelante."
           }
         ]
       },
@@ -1762,6 +1762,433 @@
           {
             "technique": 15,
             "description": "La mano libre bloquea por dentro, por fuera mete el Tang Bong y lo pone sobre la garganta flexiona el codo y tumba."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": 16,
+    "name": "Defensa de mano vacía contra armas de fuego",
+    "subgroups": [
+      {
+        "name": "CONTRA PISTOLA: de frente.",
+        "techniques": [
+          {
+            "technique": 1,
+            "description": "Agarra el carro/cañón por dentro, lo baja y sale a 45°."
+          },
+          {
+            "technique": 2,
+            "description": "Agarra el carro/cañón por fuera, lo baja y sale a 45°.."
+          },
+          {
+            "technique": 3,
+            "description": "Agarra el carro/cañón por debajo y eleva el arma y el brazo que la sostiene."
+          },
+          {
+            "technique": 4,
+            "description": "Agarra el carro/cañón por dentro, gira el arma de adentro hacia afuera en el plano horizontal, engarza el pulgar con el guardamonte y rompe el pulgar."
+          },
+          {
+            "technique": 5,
+            "description": "Agarra el carro/cañón por fuera con mano contraria (ataca derecha defiende izquierda), gira el arma hacia el pecho del atacante poniendo la mano en 'U' en el plano horizontal."
+          },
+          {
+            "technique": 6,
+            "description": "Agarra el carro/cañón por fuera con mano contraria (ataca derecha defiende izquierda), la otra mano toma el cañón por debajo. Empuja el arma hacia arriba para desarmar (hacer soltar el arma). Complementa lanzando como #16 de básicas."
+          },
+          {
+            "technique": 7,
+            "description": "Agarra el carro/cañón por fuera con mano contraria y #16 de básicas."
+          },
+          {
+            "technique": 8,
+            "description": "Agarra el carro/cañón por fuera con mano igual. La mano libre envuelve el brazo portador del arma para hacer como técnica de conducción haciendo apuntar el arma hacia el atacante."
+          },
+          {
+            "technique": 9,
+            "description": "Agarra el carro/cañón por dentro con mano contraria y hace como #9 de llave contra puño."
+          },
+          {
+            "technique": 10,
+            "description": "Agarra el carro/cañón por dentro con mano contraria. Hace como #8 de llave contra puño haciendo golpear al oponente la cabeza con el arma. Complemento."
+          }
+        ]
+      },
+      {
+        "name": "CONTRA PISTOLA: de espalda.",
+        "techniques": [
+          {
+            "technique": 11,
+            "description": "Gira en sentido horario para dar el frente al arma. Sale de la línea de fuego. Con mano igual agarra la mano portadora del arma. Con el brazo libre rompe/palanquea el codo del brazo que sostiene el arma."
+          },
+          {
+            "technique": 12,
+            "description": "Gira en sentido horario para dar el frente al arma. Sale de la línea de fuego. Con mano igual agarra la mano portadora del arma. Mete el brazo libre por dentro para palanquear el codo a la vez que la mano que agarra el arma gira la mano atacante palma arriba. Y conduce o fractura. Como #7 de saludo y conducción."
+          },
+          {
+            "technique": 13,
+            "description": "Girando en sentido horario, mete el brazo derecho por debajo del brazo portador del arma (derecho). Y hace candado al cuello. Tumba."
+          },
+          {
+            "technique": 14,
+            "description": "Gira en sentido horario para dar el frente al arma. Sale de la línea de fuego. Con mano igual agarra la mano portadora del arma. La mano libre presiona el pronador. Gira la mano atacante para hacer apuntar al pecho del agresor."
+          },
+          {
+            "technique": 15,
+            "description": "Levanta los brazos. Gira en sentido anti horario. Con el brazo izquierdo de afuera hacia adentro envuelve la mano atacante y la aprisiona en la axila, con la mano libre batang son teok chigi."
+          },
+          {
+            "technique": 16,
+            "description": "Levanta los brazos. Gira en sentido anti horario. Mete el brazo izquierdo por debajo del atacante, lo pone por encima del bíceps para flexionarlo. Con la mano libre aprisiona la cabeza del atacante contra el pecho del defensor. Continúa el giro."
+          }
+        ]
+      },
+      {
+        "name": "CONTRA ARMA LARGA: de frente.",
+        "techniques": [
+          {
+            "technique": 17,
+            "description": "Hacia adentro, la mano derecha retira el cañón hacia abajo, Uen Sewo Chumok Chigi a la cara. Levanta el arma, Mureup Chigi a los genitales. Con la mano izquierda agarra la culata y quita el arma."
+          },
+          {
+            "technique": 18,
+            "description": "La mano izquierda, agarra y retira el cañón hacia adentro. El borde radial del brazo derecho, golpea/empuja la garganta (como bakkat sonnal Chigi) para tumbar (ayuda con suroh Chagi)."
+          }
+        ]
+      },
+      {
+        "name": "CONTRA ARMA LARGA: de espalda.",
+        "techniques": [
+          {
+            "technique": 19,
+            "description": "Gira en sentido horario, mete la mano derecha por debajo del arma (parecido al agarre de #6 de llave contra puño) la levanta y tala (la mano izquierda del oponente) con el hombro haciendo presión con los brazos."
+          },
+          {
+            "technique": 20,
+            "description": "Gira en sentido anti horario. Con ambas manos controla el arma. Chokto cha doligi chagi a la rodilla. De forma ascendente golpea la cara del atacante con el arma."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": 17,
+    "name": "Defensa sentado en silla.",
+    "subgroups": [
+      {
+        "name": "Ataque de puño.",
+        "techniques": [
+          {
+            "technique": 1,
+            "description": "Con mano igual, y por fuera, hace bloqueo de águila. Sigue el flujo para hacer como #17 de básicas. Se levanta de la silla y luego #16 de básicas."
+          },
+          {
+            "technique": 2,
+            "description": "Igual a #6 de llave contra puño, haciendo estrellar la cara contra la silla. Ataque de patada."
+          },
+          {
+            "technique": 3,
+            "description": "Ataca Dollyeo Chagi. Por dentro montong bakkat makki. La mano libre egancha la corva de la pierna que patea, gira la rodilla hacia adentro, para tumbar al oponente y al caer boca abajo, lastimarle la columna con la pierna que pateó."
+          },
+          {
+            "technique": 4,
+            "description": "Ataca Tokumchi Chanerigi Chagi. Al iniciarse el ataque, se levanta y por fuera sonnal bio makki. Simultáneamente hace dichuk miro chagi."
+          },
+          {
+            "technique": 5,
+            "description": "Ataca Dollyeo Chagi. Anticipa el ataque. Agarra en 'V' la pierna que patea. An Dary Chanoki a la pierna de apoyo."
+          }
+        ]
+      },
+      {
+        "name": "Agarres simples o dobles por el frente, a los brazos y/o tronco.",
+        "techniques": [
+          {
+            "technique": 6,
+            "description": "(Ataque agarrando ambos hombros) Hace como #12 de sentado y simultáneamente empuja con dul pal batang son milop chigi. Al caer el oponente, se le pone el extremo superior de la silla sobre la garganta."
+          },
+          {
+            "technique": 7,
+            "description": "(Ataque estrangulando) Con mano contraria agarra una de las manos del oponente. El brazo libre, se mete por entre los del oponente extendido en su totalidad, para hacer una especie de 'Are makki'. El oponente cae de espaldas en regazo del atacado. Se remata con golpe al tronco o cara."
+          },
+          {
+            "technique": 8,
+            "description": "Agarre de solapa. Toalla. Se levanta de la silla cambia de mano y hace el giro de #9 de básicas pero no hacia atrás, sino hacia adentro."
+          }
+        ]
+      },
+      {
+        "name": "Agarres por detrás.",
+        "techniques": [
+          {
+            "technique": 9,
+            "description": "(Ataque estrangulando) Acomoda los pies para darse apoyo (koap Sogi). Gira el cuerpo (agarrando el brazo que estrangula) hacia el lado contrario del razo que agarra para palanquear parecido a #23 de básicas."
+          },
+          {
+            "technique": 10,
+            "description": "(Ataque agarrando ambos hombros) Con mano igual se agarran las manos del oponente. Se levanta de la silla y avanza para hacerlo caer de barriga sobre la silla. Rematar en el piso con patada."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": 18,
+    "name": "Defensa con bastón.",
+    "subgroups": [
+      {
+        "name": "Ataque de puño.",
+        "techniques": [
+          {
+            "technique": 1,
+            "description": "Bloquea por dentro con el bastrón, luego con el asa golpea en la nuca hacia abajo."
+          },
+          {
+            "technique": 2,
+            "description": "La mano libre bloquea por dentro, mete el bastón por la axila con la punta hacia la espalda y hace media #18 de básicas."
+          },
+          {
+            "technique": 3,
+            "description": "La mano libre bloquea por dentro, mete el bastón por la axila con la punta hacia la espalda y hace #9 de básicas."
+          },
+          {
+            "technique": 4,
+            "description": "Mete el bastón por entre las piernas a la altura de los muslos y lo gira hacia la pierna delantera para lanzar."
+          },
+          {
+            "technique": 5,
+            "description": "Bloquea por dentro con el extremo del bastón, apoya el extremo del bastón en la mandíbula o cuello, empuja y lanza."
+          },
+          {
+            "technique": 6,
+            "description": "Bloquea/golpea por fuera con el extremo del bastón, gira por la espalda para barrer con el bastón."
+          },
+          {
+            "technique": 7,
+            "description": "Bloquea por fuera con el extremo del bastón, mete el extremo para flexionar el codo y hacer la misma palanca de #7 de llave contra puño."
+          },
+          {
+            "technique": 8,
+            "description": "Bloquea por fuera con el bastón, mete el extremo del bastón para apoyarlo bajo la axila y el hombro. Empuja y lanza."
+          },
+          {
+            "technique": 9,
+            "description": "La mano libre bloquea por dentro, usando el brazo que golpea como puente, desde aguera apoya el bastón en la garganta. Flexiona el brazo y tumba."
+          },
+          {
+            "technique": 10,
+            "description": "Bloquea como olgul makki con el bastón. La mano libre agarra la mano que golpea, gira la muñeca del atacante para poner la palma hacia arriba. Le baja el brazo y usa el bastón para palanquear el codo hacia arriba, luego lo palanquea hacia adentro. Lo hala hacia afuera, para luego volver a palanquearlo hacia adentro, para lanzarlo con el brazo enroscado en el bastón."
+          }
+        ]
+      },
+      {
+        "name": "Ataque de patada.",
+        "techniques": [
+          {
+            "technique": 11,
+            "description": "Ataca orum bandal chagi. Bloquea por dentro con el brazo libre. Y con el asa del bastón barre en contraflujo desde el tobillo."
+          },
+          {
+            "technique": 12,
+            "description": "Ataca orum bandal chagi. Bloquea por dentro con el brazo libre. Y con el asa del bastón lanza desde la nuca."
+          },
+          {
+            "technique": 13,
+            "description": "Ataca Ap Chagi. Bloquea por fuera con el bastón. Mete el bastón por entre las piernas para ponerlo por el frente del oponente y paralelo a la cadera. Levanta y tumba."
+          },
+          {
+            "technique": 14,
+            "description": "Ataca Orum Ap Chagi. Por dentro Uen Are An Makki. Continúa el flujo, gira el cuerpo y barre la pierna de apoyo golpeando con el bastón hacia afuera a la altura del tobillo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": 19,
+    "name": "Defensa de palo corto contra sable de bambú.",
+    "subgroups": [
+      {
+        "name": "Ataque vertical descendente.",
+        "techniques": [
+          {
+            "technique": 1,
+            "description": "Al cargar el ataque y antes de que el Chuk kun empiece a descender punza la garganta."
+          },
+          {
+            "technique": 2,
+            "description": "Al cargar el ataque y antes de que el Chuk kun empiece a descender, con la mano libre retiene la mano que empuña el Chuk kun, mientras la otra mano punza el pecho del oponente con el mango del Tang Bong."
+          }
+        ]
+      },
+      {
+        "name": "Ataque horizontal hacia adentro.",
+        "techniques": [
+          {
+            "technique": 3,
+            "description": "Se mete por dentro, la mano libre controla el mango del Chuk kun. Con el extremo largo del Tang Bong se hace girar el codo parecido a #7 de llave contra puño."
+          },
+          {
+            "technique": 4,
+            "description": "Se mete por dentro, la mano libre controla el mango del Chuk kun. Con el extremo largo del Tang Bong, y la palma hacia arriba, engarza la nuca para lanzar."
+          }
+        ]
+      },
+      {
+        "name": "Ataque horizontal hacia afuera.",
+        "techniques": [
+          {
+            "technique": 5,
+            "description": "Anticipando un poco el ataque, por fuera, golpea con el mango del Tang Bong en la sien. Esa misma mano la mete por debajo de los brazos del oponente, agarra su axila o costado, para lanzar de cadera."
+          },
+          {
+            "technique": 6,
+            "description": "Por fuera la mano libre batang son montong makki, simultáneamente, con el Tang Bong se punzan los genitales. La mano libre domina el mango del Chuk kun, barre con dichuk miro chagi. Desarma."
+          }
+        ]
+      },
+      {
+        "name": "Ataque vertical ascendente.",
+        "techniques": [
+          {
+            "technique": 7,
+            "description": "Al tener el oponente el brazo ya extendido, pero sin empezar el ascenso, con el Tang Bong se golpea la muñeca derecha. La mano libre, agarra la mano derecha del atacante para hacer como #15 de mano igual."
+          },
+          {
+            "technique": 8,
+            "description": "Hace como tenaza. El Tang Bong se mete por debajo de la mano derecha. La mano izquierda va al codo del atacante. Tumba. Remata."
+          }
+        ]
+      },
+      {
+        "name": "Ataque de punción",
+        "techniques": [
+          {
+            "technique": 9,
+            "description": "Anticipando un poco el ataque, por fuera, (ayudado un poco por la mano izquierda) golpea con el mango del Tang Bong la muñeca derecha. Luego, entierra el mango del Tang Bong en la garganta a la vez que hace Dichuk miro chagi. Remata."
+          },
+          {
+            "technique": 10,
+            "description": "Se mete por dentro, la mano libre controla el mango del Chu kun. Con el mango del Tang Bong golpea la cara. Mete el Tang Bong en la axila derecha para apoyarse. Lanza de cadera. Remata."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": 20,
+    "name": "Defensa con cinturón.",
+    "techniques": [
+      {
+        "technique": 1,
+        "description": "Bloquea por dentro (con el cinturón extendido de forma vertical). Gira el cuerpo y golpea con el cinturón."
+      },
+      {
+        "technique": 2,
+        "description": "Bloquea por dentro (con el cinturón extendido de forma vertical). Mano derecha arriba. Con la mano de arriba amarra la mano del atacante y #18 de básicas. En el suelo ahorca al atacante con el extremo libre del cinturón."
+      },
+      {
+        "technique": 3,
+        "description": "Frena con patada al abdomen. Con la mano izquierda lanza el cinturón por la espalda del atacante para envolver nuca y garganta. Con la mano izquierda y por debajo de la derecha agarra la punta lanzada y hace el mismo giro de #18 de básicas."
+      },
+      {
+        "technique": 4,
+        "description": "Bloquea por fuera (con el cinturón extendido de forma vertical). Mano izquierda arriba. Con la mano izquierda amarra la mano del atacante y hace el mismo giro de la #9 de básicas. Remata en el suelo."
+      },
+      {
+        "technique": 5,
+        "description": "Bloquea por fuera (con el cinturón extendido de forma vertical). Mano izquierda arriba. Con la mano izquierda amarra la mano del atacante. Y se mete como 20 de básicas. Con el extremo libre enlaza la garganta, y espalda con espalda lanza de cadera al oponente. Remata en el suelo."
+      },
+      {
+        "technique": 6,
+        "description": "Frena con patada al abdomen. Bloquea por dentro (con el cinturón extendido de forma vertical). Mano derecha arriba. Envuelve la mano del atacante a la vez que con el extremo libre envuelve la garganta y hala para tumbar y estrangular."
+      },
+      {
+        "technique": 7,
+        "description": " Bloquea por dentro (con el cinturón extendido de forma vertical). Mano derecha arriba. Con la mano de arriba amarra la mano del atacante y #18 de básicas por encima del hombro y el cuerpo, pero no palanquea el hombro."
+      },
+      {
+        "technique": 8,
+        "description": "Patea al abdomen. Bloquea por debajo (con el cinturón extendido de forma horizontal). Amarra la mano y hace #16 de básicas."
+      },
+      {
+        "technique": 9,
+        "description": "Patea al abdomen. Bloquea por debajo (con el cinturón extendido de forma horizontal). Amarra la mano y hace media #18 de básicas."
+      },
+      {
+        "technique": 10,
+        "description": "Patea al abdomen. Bloquea por debajo (con el cinturón extendido de forma horizontal). Amarra la mano. Mete la mano agarrada entre las piernas del agresor y lanza. Al caer lo voltea y le amarra la pierna."
+      }
+    ]
+  },
+  {
+    "group": 21,
+    "name": "Defensa de sable de bambú con mano vacía.",
+    "subgroups": [
+      {
+        "name": "Ataque vertical descendente.",
+        "techniques": [
+          {
+            "technique": 1,
+            "description": "Al cargar el ataque y antes de que el Chuk kun empiece a descender, Ap Chagi a los genitales. Con ambas manos agarra el Chuk kun. Lanza de cadera por el costado."
+          },
+          {
+            "technique": 2,
+            "description": "Al cargar el ataque y antes de que el Chuk kun empiece a descender, Ap Chagi a los genitales. Con ambas manos agarra el Chuk kun. Barre por la espalda."
+          }
+        ]
+      },
+      {
+        "name": "Ataque horizontal hacia adentro.",
+        "techniques": [
+          {
+            "technique": 3,
+            "description": "Sigue el flujo y hace como media #16 de básicas y lanza."
+          },
+          {
+            "technique": 4,
+            "description": "Sigue el flujo, la mano de atrás controla el chuk kun, la otra se apoya en la axila izquierda (palma hacia arriba). Lanza."
+          }
+        ]
+      },
+      {
+        "name": "Ataque horizontal hacia afuera.",
+        "techniques": [
+          {
+            "technique": 5,
+            "description": "Hace como #26 de cuchillo."
+          },
+          {
+            "technique": 6,
+            "description": "(ataque con giro) Agarra el brazo derecho y lanza por el hombro, de cadera."
+          }
+        ]
+      },
+      {
+        "name": "Ataque vertical ascendente.",
+        "techniques": [
+          {
+            "technique": 7,
+            "description": "Esquiva y deja pasar el ataque para hacer como #1 de agarres a ambos brazos."
+          },
+          {
+            "technique": 8,
+            "description": "Antes de que el ataque empiece a ascender, pone la mano sobre la muñeca y la otra sobre el codo, agarra. Palanquea el codo arrastrándo hacia el piso."
+          }
+        ]
+      },
+      {
+        "name": "Ataque de punción",
+        "techniques": [
+          {
+            "technique": 9,
+            "description": "Sale por fuera mientras hace como #5 de llave contra puño, pero sin soltar. Remata lanzando con #16 de básicas."
+          },
+          {
+            "technique": 10,
+            "description": "Hace como #19 de defensa contra agarres de Judo."
           }
         ]
       }
