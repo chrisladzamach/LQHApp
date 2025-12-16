@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../../models/hyeong/hyeong_models.dart';
+import '../../../../models/hyeong/hyeong_models.dart';
 
 class HyeongBranchView extends StatelessWidget {
   final HyeongBranch hyeongBranch;

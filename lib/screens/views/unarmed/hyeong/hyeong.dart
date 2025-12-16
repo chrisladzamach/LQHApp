@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:lqh_app/models/hyeong/hyeong_models.dart';
 import 'package:lqh_app/services/hyeong_service.dart';
-import 'package:lqh_app/screens/views/hyeong/hyeong_branch_view.dart';
+import 'package:lqh_app/screens/views/unarmed/hyeong/hyeong_branch_view.dart';
 import 'package:lqh_app/widgets/card_sub_menu.dart';
 
 class Hyeong extends StatelessWidget {

@@ -1,5 +1,5 @@
 import 'package:lqh_app/models/principal_menu_option.dart';
-import 'package:lqh_app/screens/views/hyeong/hyeong.dart';
+import 'package:lqh_app/screens/views/unarmed/hyeong/hyeong.dart';
 import 'package:lqh_app/screens/views/program.dart';
 import 'package:lqh_app/screens/views/techniques/self_defense_techniques.dart';
 import 'package:lqh_app/screens/views/armed/figures.dart';
