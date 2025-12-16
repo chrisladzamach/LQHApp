@@ -1379,5 +1379,311 @@
         ]
       }
     ]
+  },
+  {
+    "group": 14,
+    "name": "Defensa contra cuchillo",
+    "subgroups": [
+      {
+        "name": "Defensa de ataque frontal medio con bloqueo.",
+        "techniques": [
+          {
+            "technique": 1,
+            "description": "Are Sonnal Makki por fuera o por dentro."
+          },
+          {
+            "technique": 2,
+            "description": "Neryeo Batang Makki por fuera o por dentro."
+          },
+          {
+            "technique": 3,
+            "description": "Dup Pal Neryeo Batang Makki."
+          },
+          {
+            "technique": 4,
+            "description": "Okkoru Are Makki."
+          }
+        ]
+      },
+      {
+        "name": "Defensa de ataque frontal medio con golpe.",
+        "techniques": [
+          {
+            "technique": 5,
+            "description": "Por fuera o por dentro Sonnal Chigi a Son Mok."
+          },
+          {
+            "technique": 6,
+            "description": "Por fuera, Neryeo sonnal chigi a pronador y codazo a la cara (manos diferentes), Simultáneo."
+          },
+          {
+            "technique": 7,
+            "description": "Por fuera, Neryeo sonnal chigi a son mok y Oligi sonnal deung al tríceps. Simultáneo."
+          },
+          {
+            "technique": 8,
+            "description": "Por dentro, Are sonnal makko batang son teok chigi."
+          },
+          {
+            "technique": 9,
+            "description": "De afuera hacia adentro, sonnal deung con la mano contraria a la del cuchillo, siguiendo el flujo con el otro brazo golpea codazo a la nuca."
+          }
+        ]
+      },
+      {
+        "name": "Defensa de ataque frontal medio con llave.",
+        "techniques": [
+          {
+            "technique": 10,
+            "description": "Por fuera, Neryeo Batang makki y #16 de básicas."
+          },
+          {
+            "technique": 11,
+            "description": "Sonnal Okkory Are Makki Gira la muñeca en 'U' y patea al abdomen."
+          },
+          {
+            "technique": 12,
+            "description": "Sonnal okkoru Are Makki y #18 de básicas."
+          },
+          {
+            "technique": 13,
+            "description": "Sonnal Okkoru Are Makki y #9 de básicas (enterrando el cuchillo y/o lanzamiento)."
+          },
+          {
+            "technique": 14,
+            "description": "Dul Pal Neryeo Batang Makki, chapki, y hala un poco y luego empuja la mano atacante hacia sus piernas (o diagonal hacia adentro) para hacerlo caer."
+          },
+          {
+            "technique": 15,
+            "description": "Mano igual Neryeo An Batang Makki, la mano libre hace flexionar el codo y gira como #18 de básicas para lanzar como #7 de llave contar apuño."
+          }
+        ]
+      },
+      {
+        "name": "Defensa de apache vertical descendente con bloqueo: Los bloqueos deben realizarse antes de que el brazo comience a descender o extenderse.",
+        "techniques": [
+          {
+            "technique": 16,
+            "description:": "Olgul sonnal makki."
+          },
+          {
+            "technique": 17,
+            "description:": "Okkoru Olgul Makki."
+          },
+          {
+            "technique": 18,
+            "description:": "Batang Son Olgul Chukyo Makki."
+          },
+          {
+            "technique": 19,
+            "description:": "Olgul An batang Makki. (Mano contraria)."
+          },
+          {
+            "technique": 20,
+            "description:": "Por fuera, bloqueo de águila al brazo (Mano igual)."
+          }
+        ]
+      },
+      {
+        "name": "Defensa de apace vertical descendente con golpe.",
+        "techniques": [
+          {
+            "technique": 21,
+            "description:": "Olgul Sonnal makko, chumok galbi chagi. (simultáneo)."
+          },
+          {
+            "technique": 22,
+            "description:": "La mano contraria Batang son olgul chokyo makko. Mano igual Pal Kub Chigi. (simultáneo)."
+          },
+          {
+            "technique": 23,
+            "description:": "Batang son olgul Chukyo makko sonnal deung chigi a la nuca."
+          }
+        ]
+      },
+      {
+        "name": "Defensa de apache vertical descendete con llave.",
+        "techniques": [
+          {
+            "technique": 24,
+            "description:": "Mano contraria, olgul batang makki. La otra mano presiona el pronador para desequilibrar y tumbar llevando el mango del cuchillo a la mandibula del enemigo."
+          },
+          {
+            "technique": 25,
+            "description:": "Por fuera, mano contraria batang son olgul chukyo makki, usa la mano libre para hacer como #7 de llave contra puño."
+          },
+          {
+            "technique": 26,
+            "description:": "Bloquea con ambas manos como tenaza (una por fuera otra por dentro) sigue el flujo en forma circular y lo va bajando. Pone la rodilla sobre el codo hasta tumbar el oponente y para rematarlo en el piso."
+          },
+          {
+            "technique": 27,
+            "description:": "Montong bakata makki y #9 de básicas lanzando."
+          },
+          {
+            "technique": 28,
+            "description:": "Se mete hacia el atacante y lanza de cadera por dentro."
+          },
+          {
+            "technique": 29,
+            "description:": "Se mete hacia el atacante y lanza de cadera por fuera."
+          },
+          {
+            "technique": 30,
+            "description:": "Por fuera con mano igual, olgul bakkat makki y agarra, gira por la espalda cambia de mano y lanza hacia el costado."
+          }
+        ]
+      },
+      {
+        "name": "Defensa de ataque horizontal hacia adelante con bloqueo",
+        "techniques": [
+          {
+            "technique": 31,
+            "description": "Por dentro an batang makki."
+          },
+          {
+            "technique": 32,
+            "description": "Por dentro olgul sonnal bakkat makki."
+          },
+          {
+            "technique": 33,
+            "description": "Por dentro dul pal an batang makki."
+          },
+          {
+            "technique": 34,
+            "description": "Águila por dentro."
+          },
+          {
+            "technique": 35,
+            "description": "Sale a 45° por dentro y tenaza."
+          }
+        ]
+      },
+      {
+        "name": "Defensa de ataque horizontal hacia adentro con golpe.",
+        "techniques": [
+          {
+            "technique": 36,
+            "description": "Por dentro batang makki a la muñeca y el otro brazo sonnal deung oligi al tríceps."
+          },
+          {
+            "technique": 37,
+            "description": "Por dentro, montong sonnal bakkat makki, y con esa misma mano batang son teok chigi"
+          },
+          {
+            "technique": 38,
+            "description": "Por fuera sale a 45°, esquiva el ataque. Mano igual con águila, agarra la muñeca del cuchillo y el antebrazo libre, rompe el codo del oponente."
+          },
+          {
+            "technique": 39,
+            "description": "De forma simultánea, bloqueo de águila por dentro (mano contraria), y la otra mano (mano igual) agum son mok chigi."
+          },
+          {
+            "technique": 40,
+            "description": "Por fuera sale a 45°, esquiva el ataque, y batang chigi."
+          }
+        ]
+      },
+      {
+        "name": "Defensa de ataque horizontal hacia adentro con llave.",
+        "techniques": [
+          {
+            "technique": 41,
+            "description": "Por fuera sale a 45°, esquiva el ataque, y hace tenaza."
+          },
+          {
+            "technique": 42,
+            "description": "Por dentro sale a 45°, esquiva el ataque y hace tenaza para hacer como #7 de llave contra puño."
+          },
+          {
+            "technique": 43,
+            "description": "Por dentro hace tenaza (con las palmas), y lanza de cadera."
+          },
+          {
+            "technique": 44,
+            "description": "De forma simultánea, bloquea águila por dentro (mano contraria), y la otra mano (mano igual) agum son mok chigi. Ambas manos agarran la del cuchillo y hace como #9 de básicas lanzando."
+          },
+          {
+            "technique": 45,
+            "description": "De forma simultánea, por dentro montong batang makki, y la otra mano batang son chigi a la cara, mete un pie por detrás del oponente y lanza de cadera."
+          }
+        ]
+      },
+      {
+        "name": "Defensa de apache horizontal hacia afuera con bloqueo.",
+        "techniques": [
+          {
+            "technique": 46,
+            "description": "An batang makki."
+          },
+          {
+            "technique": 47,
+            "description": "Águila por fuera. Mano igual."
+          },
+          {
+            "technique": 48,
+            "description": "Olgul sonnal bakkat makki."
+          },
+          {
+            "technique": 49,
+            "description": "Dul pal batang makki."
+          },
+          {
+            "technique": 50,
+            "description": "Tenaza."
+          }
+        ]
+      },
+      {
+        "name": "Defensa de apache horizontal hacia afuera con golpe.",
+        "techniques": [
+          {
+            "technique": 51,
+            "description": "Sale por fuera a 45°, tenazagolpeando el tríceps."
+          },
+          {
+            "technique": 52,
+            "description": "Sale por fuera a 45°, mano igual bloquea y la otra sonnal deung, mok o teok chigi."
+          },
+          {
+            "technique": 53,
+            "description": "Sale por fuera a 45°, mano igual bloquea y la otra pyon son ji a la axila."
+          },
+          {
+            "technique": 54,
+            "description": "Sale por fuera a 45°, mano igual bloquea y la otra sonnal galbi chigi."
+          },
+          {
+            "technique": 55,
+            "description": "Sale por fuera a 45°, palkub galbi chigi."
+          }
+        ]
+      },
+      {
+        "name": "Defensa de apache horizontal hacia afuera con golpe.",
+        "techniques": [
+          {
+            "technique": 56,
+            "description": "Mano igual bloquea y la otra sonnal galbi chigi, más #8 de llave contra puño."
+          },
+          {
+            "technique": 57,
+            "description": "Mano igual bloquea y la otra va al codo para seguir el flujo rotando el codo, hacer rodar o lanzar al oponente."
+          },
+          {
+            "technique": 58,
+            "description": "Bloquea con ambas manos como tenaza (una por fuera y otra por dentro) sigue el flujo en forma circular y lo va bajando. Pone la rodilla sobre el codo hasta tumbar el oponente y para rematarlo en el piso."
+          },
+          {
+            "technique": 59,
+            "description": "Por fuera montong bakkat makki, la mano que bloquea se desplaza para agarrar garganta o cuello, estrangular y lanzar de cadera."
+          },
+          {
+            "technique": 60,
+            "description": "Por fuera montong bakkat makki, la otra mano palanquea el codo para lanzar por palanca del codo y de cadera."
+          }
+        ]
+      }
+    ]
   }
 ]
