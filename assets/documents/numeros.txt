@@ -1,0 +1,61 @@
+NÚMEROS ORDINALES
+
+일 = il = 1
+
+이 = i = 2
+
+삼 = sam = 3
+
+사 = sa = 4
+
+오 = o = 5
+
+육 = yuk = 6
+
+칠 = chil = 7
+
+팔 = pal = 8
+
+구 = gu = 9
+
+십 = sip = 10
+
+NÚMEROS CARDINALES
+
+하나 = hana = 1
+
+둘 = dul = 2
+
+셋 = set = 3
+
+넷 = net = 4
+
+다섯 = da-seot = 5
+
+여섯 = yeo-seot = 6
+
+일곱 = il-gop = 7
+
+여덟 = yeo-deol = 8
+
+아홉 = a-hop = 9
+
+열 = yeol = 10
+
+스물 = seu-mul = 20
+
+서른 = seo-reun = 30
+
+마흔 = ma-heun = 40
+
+쉰 = swin = 50
+
+예순 = ye-sun = 60
+
+일흔 = il-heun = 70
+
+여든 = yeo-deun = 80
+
+아흔 = a-heun = 90
+
+백 = baek = 100
