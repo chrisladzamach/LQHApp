@@ -20,13 +20,13 @@ class TechniqueGroup {
       name: json['name'],
       subgroups: json['subgroups'] != null
           ? (json['subgroups'] as List)
-              .map((e) => Subgroup.fromJson(e))
-              .toList()
+                .map((e) => Subgroup.fromJson(e))
+                .toList()
           : null,
       techniques: json['techniques'] != null
           ? (json['techniques'] as List)
-              .map((e) => Technique.fromJson(e))
-              .toList()
+                .map((e) => Technique.fromJson(e))
+                .toList()
           : null,
     );
   }
