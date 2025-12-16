@@ -24,7 +24,8 @@ class Programa extends StatelessWidget {
             grade: option.grade,
             romanizedText: option.romanized,
             hangulText: option.hangul,
-            color: option.color,
+            primaryColor: option.primaryColor,
+            secondaryColor: option.secondaryColor,
             screen: option.screen,
           );
         }).toList(),

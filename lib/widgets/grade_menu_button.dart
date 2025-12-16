@@ -4,7 +4,8 @@ class GradeMenuButton extends StatelessWidget {
   final String grade;
   final String romanizedText;
   final String hangulText;
-  final Color color;
+  final Color primaryColor;
+  final Color? secondaryColor;
   final Widget screen;
 
   const GradeMenuButton({
@@ -12,9 +13,23 @@ class GradeMenuButton extends StatelessWidget {
     required this.grade,
     required this.romanizedText,
     required this.hangulText,
-    required this.color,
+    required this.primaryColor,
+    this.secondaryColor,
     required this.screen,
   });
+
+  bool get isDualColor => secondaryColor != null;
+  bool get isBlackOnly =>
+      primaryColor == Colors.black && secondaryColor == null;
+  bool get isBrownBlack =>
+      primaryColor == Colors.brown && secondaryColor == Colors.black;
+
+  Color get textColor {
+    if (isBlackOnly || isBrownBlack) {
+      return Colors.yellow;
+    }
+    return Colors.black;
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -31,38 +46,58 @@ class GradeMenuButton extends StatelessWidget {
           ),
         );
       },
-
       child: Container(
         decoration: BoxDecoration(
           border: Border.all(color: Colors.blueGrey),
-          color: color,
           borderRadius: BorderRadius.circular(12),
         ),
-        padding: const EdgeInsets.all(12),
-        child: Center(
-          child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
+        child: ClipRRect(
+          borderRadius: BorderRadius.circular(12),
+          child: Stack(
             children: [
-              Text(
-                grade,
-                style: const TextStyle(
-                  color: Colors.black,
-                  fontSize: 30,
-                  fontWeight: FontWeight.bold,
-                ),
+              Column(
+                children: [
+                  Expanded(child: Container(color: primaryColor)),
+                  Expanded(
+                    child: Container(
+                      color: isDualColor ? secondaryColor : primaryColor,
+                    ),
+                  ),
+                ],
               ),
 
-              Text(
-                romanizedText,
-                style: const TextStyle(color: Colors.black87, fontSize: 16),
-              ),
-
-              Text(
-                hangulText,
-                style: const TextStyle(
-                  color: Colors.black54,
-                  fontSize: 18,
-                  fontWeight: FontWeight.w300,
+              Center(
+                child: Padding(
+                  padding: const EdgeInsets.all(12),
+                  child: Column(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: [
+                      Text(
+                        grade,
+                        textAlign: TextAlign.center,
+                        style: TextStyle(
+                          color: textColor,
+                          fontSize: 30,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                      Text(
+                        romanizedText,
+                        style: TextStyle(
+                          color: textColor.withValues(alpha: 0.9),
+                          fontSize: 16,
+                        ),
+                      ),
+                      Text(
+                        hangulText,
+                        style: TextStyle(
+                          color: textColor.withValues(alpha: 0.8),
+                          fontSize: 18,
+                          fontWeight: FontWeight.w300,
+                        ),
+                      ),
+                    ],
+                  ),
                 ),
               ),
             ],
