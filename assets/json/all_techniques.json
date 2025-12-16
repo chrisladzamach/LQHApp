@@ -1283,5 +1283,101 @@
         ]
       }
     ]
+  },
+  {
+    "group": 13,
+    "name": "Defensa contra patada",
+    "subgroups": [
+      {
+        "name": "Defensa de Ap Chagi",
+        "techniques": [
+          {
+            "technique": 1,
+            "description": "Por fuera Sonnal Chigi a la base del pie."
+          },
+          {
+            "technique": 2,
+            "description": "Okkoru Are Makki y hala atrás."
+          },
+          {
+            "technique": 3,
+            "description": "Por dentro Are Makki, a la vez que la otra mano Sewo Chumok Chigi a la parte interior del muslo."
+          },
+          {
+            "technique": 4,
+            "description": "Por fuera Are Makki, Chapki, la pierna contraria a la mano que bloquea realiza Neryeo Mirop Cagi al muslo o rodilla."
+          },
+          {
+            "technique": 5,
+            "description": "Sale por fuera, engancha la pierna (como haciendo 'Jarra'), Yop Chanoki a la parte interior de la rodilla de la pierna de apoyo.'"
+          },
+          {
+            "technique": 6,
+            "description": "Batang Son Montong Chukyo Makki, hala un poco mientras la otra mano presiona con el talón de la mano sobre la canilla."
+          },
+          {
+            "technique": 7,
+            "description": "Batang Son Montong Chukyo Makki, y ayudado con la mano libre gira el tobillo para luxarlo o fracturarlo. (Dedos hacia abajo)"
+          },
+          {
+            "technique": 8,
+            "description": "Engancha la pierna por fuera (como haciendo 'Jarra'), la omano libre hace girar la pierna al plano horizontal flexionando la rodilla a la cintura y barre a la vez que gira el cuerpo."
+          },
+          {
+            "technique": 9,
+            "description": "Engancha la pierna en 'V' con la otra mano agarra la cintura y barre a la vez que gira el cuerpo."
+          },
+          {
+            "technique": 10,
+            "description": "Deja pasar la patada para agarrarla de la pantorrilla con ambas manos, a la vez que pone la corva en el hombro y lanza."
+          }
+        ]
+      },
+      {
+        "name": "A dos manos",
+        "techniques": [
+          {
+            "technique": 11,
+            "description": "Sale hacia atrás y Pal Kub Cihi a Bal Mok."
+          },
+          {
+            "technique": 12,
+            "description": "Sale por dentro, engancha la pierna en 'V' y con la otra mano Pyon Son Ji al plexo."
+          },
+          {
+            "technique": 13,
+            "description": "Retrocede y, con la pierna de adelante, Ap Chagi a la parte interior del muslo que patea."
+          },
+          {
+            "technique": 14,
+            "description": "Sale por fuera, engancha en 'V', con la pierna de atrás, Oligi Murup Chigi a la parte interior de muslo."
+          },
+          {
+            "technique": 15,
+            "description": "Bloque en 'V', Chapki. Con la pierna, engancha la pierna que patea desde la corva, para hacer caer. (esponilla con corva)."
+          },
+          {
+            "technique": 16,
+            "description": "Por fuera, hace blqueo de águila agarrando el empeine y soportando la pierna con el brazo y ayudado con la mano libre gira el tobillo para luxarlo o fracturarlo. (dedos del pie hacia abajo)."
+          },
+          {
+            "technique": 17,
+            "description": "Bloqueo de águila por encima agarra el tobillo, la mano libre agarra el talón y gira el tobillo. (dedos del pie hacia arriba)."
+          },
+          {
+            "technique": 18,
+            "description": "Sale por dentro engancha la pierna en 'jarra' y barre por detrás y estando en el suelo lo gira al oponente para terminar en escorpión."
+          },
+          {
+            "technique": 19,
+            "description": "Sale por fuera, engancha la pierna en 'V' y barre por delante."
+          },
+          {
+            "technique": 20,
+            "description": "Sale por dentro, agarra en 'V' con la mano de atrás. Gira la pierna que patea (rodilla hacia abajo). Con Dwit Dollyeo Chagi engancha la pierna que patea (tibia con corva, pierna de adelante) Tumba. Remata."
+          }
+        ]
+      }
+    ]
   }
 ]
