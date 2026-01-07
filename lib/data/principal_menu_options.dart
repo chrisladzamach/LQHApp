@@ -41,7 +41,7 @@ final List<PrincipalMenuOption> principalMenuOption = [
     romanized: "Gibon",
     spanish: "(Básicos sin armas)",
     hangul: "기본",
-    screen: BasicMovementsWithoutWeapons(),
+    screen: Gibon(),
   ),
   PrincipalMenuOption(
     icon: "🔪",
