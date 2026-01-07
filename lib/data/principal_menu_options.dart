@@ -4,8 +4,8 @@ import 'package:lqh_app/screens/views/armed/hyeong/mugi_hyeong.dart';
 import 'package:lqh_app/screens/views/unarmed/hyeong/hyeong.dart';
 import 'package:lqh_app/screens/views/program.dart';
 import 'package:lqh_app/screens/views/techniques/self_defense_techniques.dart';
-import 'package:lqh_app/screens/views/unarmed/basic_movements.dart';
-import 'package:lqh_app/screens/views/armed/basic_movements.dart';
+import 'package:lqh_app/screens/views/unarmed/gibon/gibon.dart';
+import 'package:lqh_app/screens/views/armed/gibon/basic_movements.dart';
 
 final List<PrincipalMenuOption> principalMenuOption = [
   PrincipalMenuOption(

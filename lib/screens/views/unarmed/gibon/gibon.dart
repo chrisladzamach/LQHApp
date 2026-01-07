@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class BasicMovementsWithoutWeapons extends StatelessWidget {
-  const BasicMovementsWithoutWeapons({super.key});
+class Gibon extends StatelessWidget {
+  const Gibon({super.key});
 
   @override
   Widget build(BuildContext context) {

@@ -67,28 +67,30 @@ class HyeongBranchView extends StatelessWidget {
   Widget _buildSteps(List<Steps> steps) {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
-      children: steps.map(
-        (stps) => Padding(
-          padding: const EdgeInsets.symmetric(vertical: 4),
-          child: RichText(
-            text: TextSpan(
-              children: [
-                TextSpan(
-                  text: '${stps.step}. ',
-                  style: const TextStyle(
-                    fontWeight: FontWeight.bold,
-                    color: Colors.white70,
-                  ),
+      children: steps
+          .map(
+            (stps) => Padding(
+              padding: const EdgeInsets.symmetric(vertical: 4),
+              child: RichText(
+                text: TextSpan(
+                  children: [
+                    TextSpan(
+                      text: '${stps.step}. ',
+                      style: const TextStyle(
+                        fontWeight: FontWeight.bold,
+                        color: Colors.white70,
+                      ),
+                    ),
+                    TextSpan(
+                      text: stps.description,
+                      style: const TextStyle(color: Colors.grey),
+                    ),
+                  ],
                 ),
-                TextSpan(
-                  text: stps.description,
-                  style: const TextStyle(color: Colors.grey),
-                ),
-              ],
+              ),
             ),
-          ),
-        ),
-      ).toList()
+          )
+          .toList(),
     );
   }
 }
